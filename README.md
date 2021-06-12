@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saiqul</h1>
-<h3 align="center">Currently working with HungryHub as CTO</h3>
+<h3 align="center">Currently working at HungryHub as CTO</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=saiqulhaq" alt="saiqulhaq" /> </p>
 
