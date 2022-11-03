@@ -11,8 +11,7 @@
 Tools that I ❤️
 
 * [nix](https://nixos.org) - portable dev environment
-* [ag](https://github.com/ggreer/the_silver_searcher) - faster grep alternative
-* [fkill-cli](https://github.com/sindresorhus/fkill-cli) - to kill any processes interactively
+* [ripgrep](https://github.com/BurntSushi/ripgrep) - faster grep alternative
 * [devd](https://github.com/cortesi/devd) - local web server with live reload support
 * [ghq](https://github.com/x-motemen/ghq) - Manage remote repository clones
 * [xsv](https://github.com/BurntSushi/xsv) - CSV viewer
