@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="599" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="421" class="">
     <defs>
         <style/>
     </defs>
@@ -100,53 +100,6 @@ since already fixed in the recent versions</div>
                                     <div>opened by subchen in <span class="repo">freeCodeCamp/devdocs</span></div>
                                     <div class="comment">it seems the OpenJDK is actively updated https://github.com/freeCodeCamp/devdocs/blob/main/lib/docs/scrapers/openjdk.rb
 so this issue is still relevant?</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1387 'pry -e' messes with the terminal</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by sam113101 in <span class="repo">pry/pry</span></div>
-                                    <div class="comment">
-                                        oh ok
-do you have any references that I could read to fix the issue?
-I am a beginner in the the CLI world
-is it an issue with readline? or a bug when parsing
-                                        <code>-e</code>
-                                        https://github.com/pry/pry/blob/v0.14.1/lib/pry/cli.rb#L130?
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1187 remove outdated testing methods</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by ghost in <span class="repo">pry/pry</span></div>
-                                    <div class="comment">
-                                        After trying for a couple of hours, the
-                                        <code>redirect_pry_io</code>
-                                        method is more like an Integration test, and
-                                        <code>pry_tester</code>
-                                        is a unit test, so could you explain the requirement for this issue? Do we need to refactor the spec helpers or add documentation on how to test?
-                                    </div>
                                 </div>
                             </section>
                         </div>
