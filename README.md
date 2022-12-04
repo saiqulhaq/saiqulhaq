@@ -10,8 +10,8 @@
 
 Tools that I ❤️
 
-* [nix](https://nixos.org) - portable dev environment
-* [ripgrep](https://github.com/BurntSushi/ripgrep) - faster grep alternative
+* [okteto](https://www.okteto.com/) - Development environment on Kubernetes
+* [ag](https://github.com/ggreer/the_silver_searcher) - faster ack alternative
 * [devd](https://github.com/cortesi/devd) - local web server with live reload support
 * [ghq](https://github.com/x-motemen/ghq) - Manage remote repository clones
 * [xsv](https://github.com/BurntSushi/xsv) - CSV viewer
@@ -21,3 +21,9 @@ Tools that I ❤️
 * [bat](https://github.com/sharkdp/bat) - Cat alternative
 * [fd](https://github.com/sharkdp/fd) - to find files in dir
 * [exa](https://github.com/ogham/exa) - ls alternative
+* [jump](https://github.com/gsamokovarov/jump) - Navigate faster
+* [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
+* [kbenv](https://github.com/little-angry-clouds/kubernetes-binaries-managers/tree/master/cmd/kbenv) - Kubectl version manager inspired
+* [gh](https://cli.github.com/) - Github CLI
+* [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
+* [neovim](https://github.com/neovim/neovim) - a Vim variant
