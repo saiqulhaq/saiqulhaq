@@ -10,13 +10,13 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : Start Up Builder
+title                    : Saiqul's Notes
 title_separator          : "-"
 subtitle                 : All about Start-Up, Management, and Software Engineering
 name                     : Saiqul Haq
@@ -25,37 +25,15 @@ url                      : https://saiqulhaq.id
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "saiqulhaq/saiqulhaq"
 teaser                   : "/assets/images/fallback.jpg"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs            : true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+  provider               : "utterances"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
-  giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
-    category_id          : # Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-  staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
-reCaptcha:
-  siteKey                :
-  secret                 :
+    theme                : "github-dark"
+    issue_term           : "pathname"
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
@@ -64,14 +42,6 @@ search_full_content      : true
 search_provider          : lunr # algolia, google
 lunr:
   search_within_pages    : true
-algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
-google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -105,29 +75,29 @@ analytics:
 # Site Author
 author:
   name             : "Saiqul Haq"
-  avatar           : "/assets/images/me.jpg"
+  avatar           : "/assets/images/saiqulhaq.JPG"
   bio              : "CTO @HungryHub"
   location         : "Malang, Indonesia"
-  email            : "saiqulhaq@gmail.com"
+  # email            : "saiqulhaq@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:saiqulhaq@gmail.com"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://twitter.com/saiqulhaq"
+    #- label: "Facebook"
+      #icon: "fab fa-fw fa-facebook-square"
+      #url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/saiqulhaq"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/saiqulhaq"
 
 # Site Footer
 footer:
@@ -286,7 +256,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      comments: true
       share: true
       related: true
