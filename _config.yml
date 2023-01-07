@@ -47,15 +47,14 @@ google_site_verification : "google-site-verification=CYtsuLZ3K5bNSeGYMPf4dLkEJxh
 bing_site_verification   : "20A92335BB9094ED2A8570A4EE1AAB4B"
 naver_site_verification  : "009f87c48c984c04d19b10e1e3bb655d9427d9a2"
 yandex_site_verification : "f5d287c7db98ad2d"
-baidu_site_verification  :
 
 # Social Sharing
 twitter:
   username               : saiqulhaq
-facebook:
-  username               : saiqul.haq.3
-  app_id                 :
-  publisher              :
+# facebook:
+  # username               : saiqul.haq.3
+  # app_id                 :
+  # publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -66,11 +65,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
-
+    tracking_id          : G-SSPMXQQBF3
+    anonymize_ip         : false
 
 # Site Author
 author:
@@ -190,8 +188,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone: "Asia/Jakarta"
 
 # Plugins (previously gems:)
 plugins:
@@ -221,22 +218,21 @@ whitelist:
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
-  type: liquid
+  type: jekyll-archives
   path: /categories/
 tag_archive:
-  type: liquid
+  type: jekyll-archives
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
