@@ -65,7 +65,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google"
+  provider               : "google-gtag"
   google:
     tracking_id          : G-SSPMXQQBF3
     anonymize_ip         : false
