@@ -2,7 +2,14 @@
 layout: single
 title:  "Speed up Rails controller speed easily"
 date:   2023-01-05 18:08:40 +0000
-categories: rails
+comments: true
+categories:
+  - Rails
+  - Tips
+tags:
+  - activerecord
+  - identity_cache
+  - actionpack
 ---
 
 When we adding a Rails controller action, especially for `#show`. Usually it would be like this:  
