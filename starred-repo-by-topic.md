@@ -7,9 +7,7 @@
 
 - [ai](#ai)
 - [algorithm](#algorithm)
-- [android](#android)
 - [api](#api)
-- [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
@@ -19,7 +17,6 @@
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [coding](#coding)
-- [dart](#dart)
 - [data-structures](#data-structures)
 - [deployment](#deployment)
 - [design](#design)
@@ -27,16 +24,14 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [flask](#flask)
-- [flutter](#flutter)
 - [framework](#framework)
 - [frontend](#frontend)
 - [git](#git)
+- [go](#go)
 - [golang](#golang)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
-- [ios](#ios)
-- [java](#java)
 - [javascript](#javascript)
 - [kubernetes](#kubernetes)
 - [learning](#learning)
@@ -44,14 +39,12 @@
 - [lua](#lua)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
-- [material-design](#material-design)
-- [mobile](#mobile)
 - [neovim](#neovim)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
-- [objective-c](#objective-c)
 - [osint](#osint)
 - [others](#others)
+- [package-manager](#package-manager)
 - [postgresql](#postgresql)
 - [programming](#programming)
 - [python](#python)
@@ -70,6 +63,7 @@
 - [terminal](#terminal)
 - [testing](#testing)
 - [typescript](#typescript)
+- [ubuntu](#ubuntu)
 - [vim](#vim)
 - [web](#web)
 - [webapp](#webapp)
@@ -84,26 +78,14 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [sagivo/algorithms](https://github.com/sagivo/algorithms) - algorithms playground for common questions
 
-## android 
-
-- [alexal1/Insomniac](https://github.com/alexal1/Insomniac) - Instagram bot for automated Instagram interaction using Android device via ADB
-- [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
-- [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - [Examples] Simple basic isolated apps, for budding flutter devs.
-- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-
 ## api 
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 
-## automation 
-
-- [alexal1/Insomniac](https://github.com/alexal1/Insomniac) - Instagram bot for automated Instagram interaction using Android device via ADB
-
 ## awesome 
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
@@ -114,15 +96,14 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
 
 ## bash 
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [gsamokovarov/jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
 ## bootstrap 
@@ -131,7 +112,6 @@
 
 ## bot 
 
-- [alexal1/Insomniac](https://github.com/alexal1/Insomniac) - Instagram bot for automated Instagram interaction using Android device via ADB
 - [hellostealth/stealth](https://github.com/hellostealth/stealth) - An open source Ruby framework for text and voice chatbots. 🤖
 
 ## c 
@@ -145,23 +125,18 @@
 
 ## cli 
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 
 ## coding 
 
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
-
-## dart 
-
-- [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
-- [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - [Examples] Simple basic isolated apps, for budding flutter devs.
 
 ## data-structures 
 
@@ -198,12 +173,6 @@
 
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 
-## flutter 
-
-- [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
-- [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - [Examples] Simple basic isolated apps, for budding flutter devs.
-- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-
 ## framework 
 
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
@@ -219,6 +188,10 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 
+## go 
+
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+
 ## golang 
 
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -230,28 +203,18 @@
 
 ## hacktoberfest 
 
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-- [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - [Examples] Simple basic isolated apps, for budding flutter devs.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## html 
 
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
-
-## ios 
-
-- [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
-- [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - [Examples] Simple basic isolated apps, for budding flutter devs.
-- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-
-## java 
-
-- [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - [Examples] Simple basic isolated apps, for budding flutter devs.
 
 ## javascript 
 
@@ -271,6 +234,7 @@
 
 ## linux 
 
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
 ## lua 
@@ -285,19 +249,10 @@
 
 - [sindresorhus/macos-trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
-
-## material-design 
-
-- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-
-## mobile 
-
-- [alexal1/Insomniac](https://github.com/alexal1/Insomniac) - Instagram bot for automated Instagram interaction using Android device via ADB
-- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
 ## neovim 
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## nodejs 
@@ -309,16 +264,13 @@
 
 - [sergeyleschev/sergeyleschev](https://github.com/sergeyleschev/sergeyleschev) - Sergey Leschev / Tech Lead / CTO. Certificates. Developer Roadmap. @ S. Leschev.
 
-## objective-c 
-
-- [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - [Examples] Simple basic isolated apps, for budding flutter devs.
-
 ## osint 
 
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 
 ## others 
 
+- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [cortesi/devd](https://github.com/cortesi/devd) - A local webserver for developers
@@ -363,6 +315,10 @@
 - [Lokaltog/vim-powerline](https://github.com/Lokaltog/vim-powerline) - Moved to powerline/powerline.
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 
+## package-manager 
+
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
+
 ## postgresql 
 
 - [sergeyleschev/sergeyleschev](https://github.com/sergeyleschev/sergeyleschev) - Sergey Leschev / Tech Lead / CTO. Certificates. Developer Roadmap. @ S. Leschev.
@@ -378,7 +334,6 @@
 
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [alexal1/Insomniac](https://github.com/alexal1/Insomniac) - Instagram bot for automated Instagram interaction using Android device via ADB
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 
 ## rails 
@@ -432,7 +387,6 @@
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 
@@ -444,7 +398,6 @@
 
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ## sql 
 
@@ -453,7 +406,6 @@
 ## swift 
 
 - [sergeyleschev/sergeyleschev](https://github.com/sergeyleschev/sergeyleschev) - Sergey Leschev / Tech Lead / CTO. Certificates. Developer Roadmap. @ S. Leschev.
-- [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - [Examples] Simple basic isolated apps, for budding flutter devs.
 
 ## swiftui 
 
@@ -465,7 +417,6 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ## testing 
 
@@ -475,8 +426,13 @@
 
 - [sergeyleschev/sergeyleschev](https://github.com/sergeyleschev/sergeyleschev) - Sergey Leschev / Tech Lead / CTO. Certificates. Developer Roadmap. @ S. Leschev.
 
+## ubuntu 
+
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
+
 ## vim 
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## web 
