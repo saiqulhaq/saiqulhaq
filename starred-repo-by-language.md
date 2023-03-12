@@ -56,6 +56,9 @@
 
 ## JavaScript 
 
+- [mifi/ezshare](https://github.com/mifi/ezshare) - Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web + Multi-Device API
 - [blocknotes/administrate-materialize-theme](https://github.com/blocknotes/administrate-materialize-theme) - A Material Design theme for Administrate based on Materialize framework
 - [fontello/fontello](https://github.com/fontello/fontello) - Iconic fonts scissors
 - [mechio/takana](https://github.com/mechio/takana) - Takana lets you see your SCSS and CSS style changes live, in the browser, as you type them
@@ -160,6 +163,7 @@
 
 ## TypeScript 
 
+- [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [actions/setup-java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java
 
 ## Vim Script 
