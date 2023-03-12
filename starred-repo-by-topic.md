@@ -8,6 +8,7 @@
 - [ai](#ai)
 - [algorithm](#algorithm)
 - [api](#api)
+- [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
@@ -80,8 +81,14 @@
 
 ## api 
 
+- [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+
+## automation 
+
+- [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web + Multi-Device API
 
 ## awesome 
 
@@ -112,6 +119,8 @@
 
 ## bot 
 
+- [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [hellostealth/stealth](https://github.com/hellostealth/stealth) - An open source Ruby framework for text and voice chatbots. 🤖
 
 ## c 
@@ -125,6 +134,7 @@
 
 ## cli 
 
+- [mifi/ezshare](https://github.com/mifi/ezshare) - Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
@@ -175,6 +185,7 @@
 
 ## framework 
 
+- [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 
@@ -203,6 +214,7 @@
 
 ## hacktoberfest 
 
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -257,6 +269,7 @@
 
 ## nodejs 
 
+- [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [sergeyleschev/sergeyleschev](https://github.com/sergeyleschev/sergeyleschev) - Sergey Leschev / Tech Lead / CTO. Certificates. Developer Roadmap. @ S. Leschev.
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 
@@ -424,6 +437,7 @@
 
 ## typescript 
 
+- [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [sergeyleschev/sergeyleschev](https://github.com/sergeyleschev/sergeyleschev) - Sergey Leschev / Tech Lead / CTO. Certificates. Developer Roadmap. @ S. Leschev.
 
 ## ubuntu 
