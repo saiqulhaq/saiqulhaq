@@ -150,6 +150,7 @@
 
 ## Shell 
 
+- [WeiJiHsiao/pbwsl](https://github.com/WeiJiHsiao/pbwsl) - pbcopy and pbpaste in WSL(Windows Subsystem for Linux)
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
