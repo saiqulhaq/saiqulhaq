@@ -10,11 +10,10 @@ tags:
   - wsl
 ---
 
-It's annoying our terminal keep asking us for our SSH passphrase when pushing our Git commit to GitHub/etc.  
+It's annoying when our Terminal keeps asking us for our SSH passphrase when pushing our Git commit to GitHub/etc.  
 Here is a workaround that we can do to fix this issue permanently.
 
-Add this script to your .bashrc or .zshrc file
-
+Add this script to your .bashrc or .zshrc file.
 
 ```bash
 # SSH Agent should be running, once
