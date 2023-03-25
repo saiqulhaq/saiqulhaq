@@ -2,7 +2,10 @@
 permalink: /about
 layout: single
 title: About Me
-comments: true
+comments: false
+header:
+  image: /assets/images/about-me.jpg
+  image_description: "About Saiqul Haq"
 ---
 
 Hello! My name is Saiqul Haq, and I'm the Chief Technology Officer (CTO) at Hungry Hub, a Series A company revolutionizing how people dine. I'm passionate about technology and dedicated to leading a talented team of professionals shaping our company's future.
