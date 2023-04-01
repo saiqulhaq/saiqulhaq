@@ -10,6 +10,8 @@ tags:
   - activerecord
   - identity_cache
   - actionpack
+header:
+  image: https://images.unsplash.com/photo-1500741236341-1b7a0f91f1f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&h=300&q=80
 ---
 
 When we adding a Rails controller action, especially for `#show`. Usually it would be like this:  

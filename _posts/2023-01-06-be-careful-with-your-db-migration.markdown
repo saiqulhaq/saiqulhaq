@@ -9,6 +9,8 @@ categories:
 tags:
   - activerecord
   - strong_migrations
+header:
+  image: https://images.unsplash.com/photo-1520792532857-293bd046307a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&h=300&q=80
 ---
 
 In the early stage as a Start-Up, we do many experiments to prove our assumption to reach product market fit.

@@ -8,6 +8,8 @@ categories:
   - Tips
 tags:
   - wsl
+header:
+  image: https://images.unsplash.com/photo-1629654297299-c8506221ca97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1280&h=300&q=80
 ---
 
 It's annoying when our Terminal keeps asking us for our SSH passphrase when pushing our Git commit to GitHub/etc.  
