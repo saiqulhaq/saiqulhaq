@@ -9,9 +9,11 @@
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [4000],
 
+	"onCreateCommand": "bundle install",
+	
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "bundle install && bundle exec jekyll serve",
-
+	"postCreateCommand": "bundle exec jekyll serve",
+	
 	// Configure tool-specific properties.
 	// "customizations": {},
 
