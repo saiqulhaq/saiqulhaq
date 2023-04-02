@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : Saiqul's Notes
 title_separator          : "-"
-subtitle                 : All about Start-Up, Management, and Software Engineering
+subtitle                 : All about Start-Up and Software Engineering
 name                     : Saiqul Haq
-description              : All about Start-Up, Management, and Software Engineering by Saiqul Haq
+description              : All about Start-Up and Software Engineering by Saiqul Haq
 url                      : https://saiqulhaq.id
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "saiqulhaq/saiqulhaq"
@@ -74,7 +74,7 @@ analytics:
 author:
   name             : "Saiqul Haq"
   avatar           : "/assets/images/saiqulhaq.jpg"
-  bio              : "CTO @HungryHub"
+  bio              : "CTO @ HungryHub.com"
   location         : "Malang, Indonesia"
   # email            : "saiqulhaq@gmail.com"
   links:

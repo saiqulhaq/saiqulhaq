@@ -23,7 +23,7 @@ As a passionate coder, I take pride in giving back to the community by maintaini
 I'm active on several platforms where I share my knowledge and interests with others. I have a [YouTube channel](https://www.youtube.com/channel/UCGySLV8IIxp1Ef5GYAxWvgw) where I post tutorials on Ruby on Rails and anything else about technical. Additionally, I learn by reading other people's code on GitHub, and you can check out my projects at [https://github.com/saiqulhaq](https://github.com/saiqulhaq). For more casual content, you can also find me on [TikTok](https://www.tiktok.com/@saiqulhaq), where I share exciting things around me.
 
 # Hobbies and Interests
-When I'm not busy leading the team at Hungry Hub or sharing my knowledge online, I enjoy reading, coding, and playing the DOTA 2 and FIFA mobile games. These activities allow me to unwind and recharge while staying connected to my passion for technology.
+When I'm not busy leading the team at Hungry Hub or sharing my knowledge online, I enjoy reading, coding, and playing the DOTA 2 game. These activities allow me to unwind and recharge while staying connected to my passion for technology.
 
 # Continuous Learning
 As a CTO, I firmly believe in continuous learning and professional development. This commitment to growth benefits me personally and allows me to guide and inspire my team in their own professional journeys. I keep my skills sharp and stay informed about industry trends by reading books from O'Reilly and Gramedia, attending online webinars, and participating in the ["Ignite: Tech Leadership Bootcamp" bootcamp](https://www.lidr.co/en/ignite) by Alvaro Moya.
