@@ -73,6 +73,7 @@
 
 ## Others 
 
+- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for lspace.swyx.io writing, and product brainstorming, but has cleaned up canonical references under the /R
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [hexdevs/ruby-best-practices-list](https://github.com/hexdevs/ruby-best-practices-list) - A list of well-written Ruby codebases to help you extract the best practices.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
