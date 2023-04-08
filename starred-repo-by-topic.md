@@ -24,6 +24,7 @@
 - [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
+- [education](#education)
 - [flask](#flask)
 - [framework](#framework)
 - [frontend](#frontend)
@@ -179,6 +180,10 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+
+## education 
+
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## flask 
 
