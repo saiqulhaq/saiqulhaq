@@ -4,13 +4,14 @@
 	"image": "mcr.microsoft.com/devcontainers/ruby:3-bullseye",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
-	// "features": {},
+	// "features": {
+	// },
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [4000],
 
 	// Install required gems
-	"onCreateCommand": "bundle install",
+	"onCreateCommand": "apt update && apt install -y libvips libvips-tools libvips-dev && bundle install",
 	
 	// Use 'postCreateCommand' to run commands after the container is created.
 	"postCreateCommand": "bundle exec jekyll serve",

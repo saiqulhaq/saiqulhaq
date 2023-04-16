@@ -15,9 +15,19 @@ gem "faraday-retry"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "minimal-mistakes-jekyll"
-  gem "jemoji"
-  gem "jekyll-data"
+  gem "jemoji"  
   gem "jekyll-archives"
+  gem "jekyll-compose"
+  gem "jekyll-data"
+  gem "jekyll-feed"
+  gem "jekyll-gist"
+  gem "jekyll-seo-tag"
+  gem 'jekyll-target-blank'
+  gem 'jekyll_include_plugin'
+  gem 'jekyll-twitter-plugin'
+  gem 'jekyll-asciinema'
+  gem 'jekyll_picture_tag'
+  gem 'jekyll-tagging-related_posts'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

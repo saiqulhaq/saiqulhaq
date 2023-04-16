@@ -27,8 +27,8 @@ Up to 90% of the information is lost within the first 24 hours.
 3) Review material every once in a while
 If you fail to recall the material repeatedly, there is still a possibility of forgetting, just at a slower rate.
 
-![spaced repetition https://neuracache.com/](/assets/images/hero1.avif)
-![spaced repetition https://neuracache.com/](/assets/images/hero2.avif)
+{% picture /assets/images/hero1.avif --alt spaced repetition %}
+{% picture /assets/images/hero2.avif --alt spaced repetition %}
 
 ## Active Recall: Test Yourself for Better Retention
 

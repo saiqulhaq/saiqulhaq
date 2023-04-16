@@ -46,3 +46,6 @@ Tasks that are neither important nor urgent can often be eliminated from your to
 ## Final Thoughts
 
 The Decision Matrix is a powerful tool for prioritizing your time and managing your tasks effectively. By categorizing tasks into the four quadrants, you can determine the best course of action for each task and ensure that your focus remains on the most important and impactful activities. Give it a try and see how it can transform your productivity and time management skills.
+
+Reference:
+{% twitter https://twitter.com/SahilBloom/status/1361688659242622976 %}
