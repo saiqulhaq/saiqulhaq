@@ -79,7 +79,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [joecritch/dev-terms](https://github.com/joecritch/dev-terms) - A list of generic terminology used by developers
 - [ircmaxell/resume](https://github.com/ircmaxell/resume) - Anthony Ferrara's Resume (CV)
-- [sergeyleschev/sergeyleschev](https://github.com/sergeyleschev/sergeyleschev) - Sergey Leschev / Tech Lead / CTO. Certificates. Developer Roadmap. 🏆 LeetCode Ranking #Dev: Global TOP 200 🏆 Golden Award Muad'Dib's Challenge 🏆 Golden Award for the Year of the Tiger Challenge.
+- [sergeyleschev/sergeyleschev](https://github.com/sergeyleschev/sergeyleschev) - Sergey Leschev / Team Lead / CTO. Certificates. Developer Roadmap. 🏆 LeetCode Ranking #Dev: Global TOP 200 🏆 Golden Award Muad'Dib's Challenge 🏆 Golden Award for the Year of the Tiger Challenge.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
