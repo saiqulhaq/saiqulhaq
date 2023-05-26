@@ -47,4 +47,7 @@ If all goes well, you should see your test case failing, which means it's ready 
 
 Once you've created your test case, you can share it in several ways. You can create a [gist](https://gist.github.com/) with your test case, which allows others to easily view and run your code. Alternatively, you can paste the content of your test case directly into the issue description on the Rails GitHub repository.
 
+As an example, I have commented on this [Rails issue](https://github.com/rails/rails/issues/47521), verifying the issue by creating an executable test case. I used the Active Record gem.rb template as a starting point, and filled it in with the details of the problem. You can see the executable test case I created [here](https://github.com/saiqulhaq/rails-issue-test-cases/blob/main/project/48291.rb).
+
+
 Creating an executable test case is a vital part of the bug reporting process. It not only helps others understand the issue you're facing, but it also facilitates the process of investigating and fixing the issue. Happy coding!
