@@ -24,6 +24,7 @@ group :jekyll_plugins do
   gem 'jekyll-gist'
   gem 'jekyll_include_plugin'
   gem 'jekyll_picture_tag'
+  gem 'jekyll-sass-converter'
   gem 'jekyll-seo-tag'
   gem 'jekyll-tagging-related_posts'
   gem 'jekyll-target-blank'
