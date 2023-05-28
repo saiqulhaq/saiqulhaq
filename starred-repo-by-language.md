@@ -112,7 +112,6 @@
 - [nathanl/searchlight](https://github.com/nathanl/searchlight) - Searchlight helps you build searches from options via Ruby methods that you write.
 - [rails/jsbundling-rails](https://github.com/rails/jsbundling-rails) - Bundle and transpile JavaScript in Rails with esbuild, rollup.js, or Webpack.
 - [shakacode/shakapacker](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails
-- [tansengming/rails-base](https://github.com/tansengming/rails-base) - Rails Bootstrap
 - [varvet/godmin](https://github.com/varvet/godmin) - Admin framework for Rails 5+
 - [kirillplatonov/shopify_app](https://github.com/kirillplatonov/shopify_app) - A Rails Engine for building Shopify Apps
 - [bogdan/datagrid](https://github.com/bogdan/datagrid) - Gem to create tables grids with sortable columns and filters
