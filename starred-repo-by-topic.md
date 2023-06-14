@@ -289,7 +289,7 @@
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [cortesi/devd](https://github.com/cortesi/devd) - A local webserver for developers
 - [nevir/Bumbler](https://github.com/nevir/Bumbler) - Track the load progress of your Bundler-based projects
-- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
+- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [camertron/scuttle-server](https://github.com/camertron/scuttle-server) - Server behind scuttle.io, a SQL editor and Arel converter.
 - [voormedia/rails-erd](https://github.com/voormedia/rails-erd) - Generate Entity-Relationship Diagrams for Rails applications
