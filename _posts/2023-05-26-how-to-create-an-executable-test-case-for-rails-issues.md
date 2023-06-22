@@ -5,6 +5,8 @@ date: 2023-05-26 08:08 +0700
 comments: true
 categories:
   - Rails
+header:
+  image: /assets/images/rails-test-case.jpg
 ---
 
 When contributing to Ruby on Rails or reporting a bug, it's important to provide a way to reproduce the issue. This helps other developers confirm, investigate, and ultimately fix the problem. One of the best ways to do this is by providing an executable test case.
