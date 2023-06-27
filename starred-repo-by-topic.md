@@ -283,6 +283,8 @@
 
 ## others 
 
+- [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
+- [gab0gomes/awesome-career-paths](https://github.com/gab0gomes/awesome-career-paths) - Curated list of awesome career paths frameworks
 - [aws/aws-graviton-getting-started](https://github.com/aws/aws-graviton-getting-started) - This document is meant to help new users start using the Arm-based AWS Graviton2 and Graviton3 processors which power the 6th and 7th generation of Amazon EC2 instances (C6g[d], M6g[d], R6g[d], T4g, X
 - [WeiJiHsiao/pbwsl](https://github.com/WeiJiHsiao/pbwsl) - pbcopy and pbpaste in WSL(Windows Subsystem for Linux)
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
