@@ -104,6 +104,7 @@
 
 ## Ruby 
 
+- [stitchfix/stitches](https://github.com/stitchfix/stitches) - Create a Microservice in Rails with minimal ceremony
 - [bullet-train-co/bullet_train](https://github.com/bullet-train-co/bullet_train) - The Open Source Ruby on Rails SaaS Template
 - [templatus/templatus-hotwire](https://github.com/templatus/templatus-hotwire) - Opinionated template for starting new web applications with Ruby on Rails and Hotwire
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
