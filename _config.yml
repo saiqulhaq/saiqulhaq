@@ -188,7 +188,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:title
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: "Asia/Jakarta"
@@ -270,8 +270,8 @@ defaults:
 
 jekyll_compose:
   post_default_front_matter:
-    last_modified_at: 
-    permalink: 
+    last_modified_at:
+    permalink:
     description:
     image:
     published: true
