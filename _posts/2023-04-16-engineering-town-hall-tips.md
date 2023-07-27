@@ -4,7 +4,7 @@ title: Engineering Town Hall Tips
 date: 2023-04-16
 comments: true
 categories:
-  - Engineering
+  - CTO
 tags:
   - Town Hall
   - Communication

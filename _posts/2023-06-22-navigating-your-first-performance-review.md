@@ -7,6 +7,7 @@ comments: true
 categories:
   - Management
   - Employee Development
+  - CTO
 tags:
   - performance review
   - management tips

@@ -4,7 +4,7 @@ title:  Handling Race Conditions in Rails
 date: 2023-06-18 09:31 +0700
 comments: true
 categories:
-  - Ruby on Rails
+  - Rails
   - Database
 tags:
   - Ruby on Rails

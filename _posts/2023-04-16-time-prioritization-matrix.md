@@ -5,6 +5,7 @@ date: 2023-04-01
 comments: true
 categories:
   - Productivity
+  - CTO
 tags:
   - Decision Matrix
   - Time Management
