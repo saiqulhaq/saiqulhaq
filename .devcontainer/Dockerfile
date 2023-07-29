@@ -2,17 +2,41 @@
 ARG VARIANT=3-alpine
 FROM ruby:${VARIANT}
 
-RUN apk add --update vips-dev git 
+RUN apk --no-cache add \
+  zlib-dev \
+  libffi-dev \
+  build-base \
+  libxml2-dev \
+  imagemagick-dev \
+  readline-dev \
+  libxslt-dev \
+  libffi-dev \
+  yaml-dev \
+  zlib-dev \
+  vips-dev \
+  vips-tools \
+  sqlite-dev \
+  cmake
+
+RUN apk --no-cache add \
+  readline \
+  nodejs \
+  bash \
+  npm \
+  yarn
+
+RUN echo "gem: --no-ri --no-rdoc" > ~/.gemrc
+
 COPY Gemfile Gemfile
 COPY Gemfile.lock Gemfile.lock
-RUN apk add --no-cache build-base && bundle install
+RUN bundle install
 
 # [Optional] Uncomment this section to install additional OS packages.
 # RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
 #     && apt-get -y install --no-install-recommends <your-package-list-here>
 
 # [Optional] Uncomment this line to install additional gems.
-# RUN bundle install
+# RUN gem install gem_name
 
 # [Optional] Uncomment this line to install global node packages.
 # RUN su vscode -c "source /usr/local/share/nvm/nvm.sh && npm install -g <your-package-here>" 2>&1
