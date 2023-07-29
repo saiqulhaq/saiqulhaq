@@ -1,24 +1,41 @@
 {
 	"name": "Ruby",
-	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/ruby:3-bullseye",
-
-	// Features to add to the dev container. More info: https://containers.dev/features.
-	// "features": {
-	// },
-
-	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+    "image": "vsc-saiqulhaq-183e332838d7ef9168b603268227e5262a6728bb2865d53440b5c840bef5f10c",
+    // "build": {
+    //     "dockerfile": "./Dockerfile",
+    //     "context": "../"
+    // },
+    "features": {
+        "ghcr.io/devcontainers/features/common-utils:2": {
+            "installZsh": "true",
+            "username": "vscode",
+            "userUid": "1000",
+            "userGid": "1000",
+            "upgradePackages": "true"
+        },
+        // "ghcr.io/devcontainers/features/ruby:1": "none",
+        // "ghcr.io/devcontainers/features/node:1": "none",
+        // "ghcr.io/devcontainers/features/git:1": {
+        //     "version": "latest",
+        //     "ppa": "false"
+        // }
+    },
+    // Configure tool-specific properties.
+    "customizations": {
+        // Configure properties specific to VS Code.
+        "vscode": {
+            // Add the IDs of extensions you want installed when the container is created.
+            "extensions": [
+                "rebornix.Ruby"
+            ]
+        }
+    },
+    // Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [4000],
 
-	// Install required gems
-	"onCreateCommand": "apt update && apt install -y libvips libvips-tools libvips-dev && bundle install",
-	
-	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "bundle exec jekyll serve",
-	
-	// Configure tool-specific properties.
-	// "customizations": {},
+    // Use 'postCreateCommand' to run commands after the container is created.
+	"postCreateCommand": "bundle exec jekyll serve -D -l",
 
-	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
-	"remoteUser": "root"
+    // Set `remoteUser` to `root` to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
+    "remoteUser": "root"
 }
