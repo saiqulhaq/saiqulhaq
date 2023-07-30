@@ -18,6 +18,7 @@ gem 'jekyll', '~> 4.1.1'
 group :jekyll_plugins do
   gem 'jekyll-archives'
   gem 'jekyll-asciinema'
+  gem 'jekyll-bitly', github: 'saiqulhaq/jekyll-bitly'
   gem 'jekyll-compose'
   gem 'jekyll-data'
   gem 'jekyll-feed'

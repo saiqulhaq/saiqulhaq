@@ -199,6 +199,7 @@ fast_build: development
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
+  - jekyll-bitly
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
