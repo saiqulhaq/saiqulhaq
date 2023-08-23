@@ -37,6 +37,7 @@
 
 ## Go 
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [little-angry-clouds/kubernetes-binaries-managers](https://github.com/little-angry-clouds/kubernetes-binaries-managers) - Kubernetes related binaries manager.
