@@ -101,7 +101,7 @@
 
 ## Python 
 
-- [aws/aws-graviton-getting-started](https://github.com/aws/aws-graviton-getting-started) - Helping developers to use AWS Graviton2 and Graviton3 processors which power the 6th and 7th generation of Amazon EC2 instances (C6g[d], M6g[d], R6g[d], T4g, X2gd, C6gn, I4g, m4gn, Is4gen, G5g, C7g[d]
+- [aws/aws-graviton-getting-started](https://github.com/aws/aws-graviton-getting-started) - Helping developers to use AWS Graviton2 and Graviton3 processors which power the 6th and 7th generation of Amazon EC2 instances (C6g[d], M6g[d], R6g[d], T4g, X2gd, C6gn, I4g, Im4gn, Is4gen, G5g, C7g[d
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
