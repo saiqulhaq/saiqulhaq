@@ -28,6 +28,7 @@
 - [flask](#flask)
 - [framework](#framework)
 - [frontend](#frontend)
+- [gh-extension](#gh-extension)
 - [gis](#gis)
 - [git](#git)
 - [go](#go)
@@ -205,6 +206,10 @@
 ## frontend 
 
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+
+## gh-extension 
+
+- [gabe565/gh-profile](https://github.com/gabe565/gh-profile) - :octocat: Use multiple GitHub accounts with the gh cli.
 
 ## gis 
 
