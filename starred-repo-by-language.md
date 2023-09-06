@@ -12,6 +12,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Others](#others)
 - [Python](#python)
@@ -73,6 +74,10 @@
 - [circlecell/jsonlintpro](https://github.com/circlecell/jsonlintpro) - 
 - [jsbin/jsbin](https://github.com/jsbin/jsbin) - Collaborative JavaScript Debugging App
 
+## Jupyter Notebook 
+
+- [ruby-ml/ml-stack](https://github.com/ruby-ml/ml-stack) - Machine learning Docker images for Ruby
+
 ## Kotlin 
 
 - [hotwired/turbo-android](https://github.com/hotwired/turbo-android) - Android framework for making Turbo native apps
@@ -118,6 +123,7 @@
 
 ## Ruby 
 
+- [yoshoku/rumale](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 - [stitchfix/stitches](https://github.com/stitchfix/stitches) - Create a Microservice in Rails with minimal ceremony
 - [bullet-train-co/bullet_train](https://github.com/bullet-train-co/bullet_train) - The Open Source Ruby on Rails SaaS Template
 - [templatus/templatus-hotwire](https://github.com/templatus/templatus-hotwire) - Opinionated template for starting new web applications with Ruby on Rails and Hotwire
