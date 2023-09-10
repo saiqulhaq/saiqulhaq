@@ -76,7 +76,7 @@
 
 ## Jupyter Notebook 
 
-- [ruby-ml/ml-stack](https://github.com/ruby-ml/ml-stack) - Machine learning Docker images for Ruby
+- [ankane/ml-stack](https://github.com/ankane/ml-stack) - Machine learning Docker images for Ruby
 
 ## Kotlin 
 
