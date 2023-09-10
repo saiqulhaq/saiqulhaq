@@ -326,7 +326,7 @@
 
 ## others 
 
-- [ruby-ml/ml-stack](https://github.com/ruby-ml/ml-stack) - Machine learning Docker images for Ruby
+- [ankane/ml-stack](https://github.com/ankane/ml-stack) - Machine learning Docker images for Ruby
 - [riseofthecontainers/website](https://github.com/riseofthecontainers/website) - website repo - hugo
 - [riseofthecontainers/k8s-objects](https://github.com/riseofthecontainers/k8s-objects) - Demo of all kubernetes session
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
