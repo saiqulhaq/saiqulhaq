@@ -239,10 +239,12 @@
 
 ## go 
 
+- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
 ## golang 
 
+- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
@@ -273,6 +275,7 @@
 
 ## kubernetes 
 
+- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [little-angry-clouds/kubernetes-binaries-managers](https://github.com/little-angry-clouds/kubernetes-binaries-managers) - Kubernetes related binaries manager.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
@@ -326,6 +329,7 @@
 
 ## others 
 
+- [puma/puma-dev](https://github.com/puma/puma-dev) - A tool to manage rack apps in development with puma
 - [TimothyYe/skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
 - [ankane/ml-stack](https://github.com/ankane/ml-stack) - Machine learning Docker images for Ruby
 - [riseofthecontainers/website](https://github.com/riseofthecontainers/website) - website repo - hugo
