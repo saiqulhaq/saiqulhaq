@@ -275,6 +275,7 @@
 
 ## kubernetes 
 
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [little-angry-clouds/kubernetes-binaries-managers](https://github.com/little-angry-clouds/kubernetes-binaries-managers) - Kubernetes related binaries manager.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
