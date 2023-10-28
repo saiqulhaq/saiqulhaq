@@ -19,6 +19,7 @@
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [coding](#coding)
+- [computer-science](#computer-science)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
@@ -169,6 +170,16 @@
 ## coding 
 
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
+
+## computer-science 
+
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [sagivo/algorithms](https://github.com/sagivo/algorithms) - algorithms playground for common questions
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ## data-analysis 
 
@@ -365,8 +376,6 @@
 - [voormedia/rails-erd](https://github.com/voormedia/rails-erd) - Generate Entity-Relationship Diagrams for Rails applications
 - [joecritch/dev-terms](https://github.com/joecritch/dev-terms) - A list of generic terminology used by developers
 - [ircmaxell/resume](https://github.com/ircmaxell/resume) - Anthony Ferrara's Resume (CV)
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [matthewmccullough/human-interaction-templates](https://github.com/matthewmccullough/human-interaction-templates) - Instructional guides, Markdown templates, and more, in the service of interacting well with other people
 - [rails/jsbundling-rails](https://github.com/rails/jsbundling-rails) - Bundle and transpile JavaScript in Rails with esbuild, rollup.js, or Webpack.
 - [shakacode/shakapacker](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails
