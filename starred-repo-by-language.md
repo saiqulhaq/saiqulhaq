@@ -131,6 +131,7 @@
 
 ## Ruby 
 
+- [ankane/searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
 - [yoshoku/rumale](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 - [stitchfix/stitches](https://github.com/stitchfix/stitches) - Create a Microservice in Rails with minimal ceremony
 - [bullet-train-co/bullet_train](https://github.com/bullet-train-co/bullet_train) - The Open Source Ruby on Rails SaaS Template
