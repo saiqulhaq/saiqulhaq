@@ -6,8 +6,9 @@ toc: true
 toc_label: Table of Content
 date: 2023-11-24 22:57 +0700
 ---
-This post is a summary from https://learnprompting.org for me to speed up when I forget to create a good prompt in the future.
-Hopefully it's useful for you too. Feel free to give any feedbacks in the comment section.
+
+This post is a summary from https://learnprompting.org for me to speed up 
+when I need to remember how to create a good prompt in the future.
 
 # How to read?
 This block means a prompt/instruction from us to the ChatGPT
@@ -15,7 +16,7 @@ This block means a prompt/instruction from us to the ChatGPT
 What is 1 + 1?
 ```
 
-This block means a response ChatGPT
+This block means a response from ChatGPT
 ```response
 The result of 1+1 is 2.
 ```
@@ -23,22 +24,21 @@ The result of 1+1 is 2.
 # Need to understand before we start
 
 ## Tokens
-Gen AI like ChatGPT don't read words in the same way that we do.
+Gen AI, like ChatGPT, doesn't read words in the same way that we do.
 "I don't like eggs" word by word would be `I, don, 't like egg s.`.
-Each token is then converted into a list of numbers, so the AI can process it. 
+Each token is then converted into a list of numbers so the AI can process it.
 
 ## Context Length
-750 words is approximately 1,000 token.
-If the conversation or text exceeds max token limit, the model will not be able 
-to remember the entire conversation when generating a response. 
+750 words are approximately 1,000 tokens.
+If the conversation or text exceeds the max token limit, the model cannot remember the entire conversation when generating a response.  
 This is why it is sometimes necessary to restate important information or re-prime the chatbot
 (see Priming Chatbots section below).
 
 # Beginner-friendly; no programming required
 
-## 1. ChatGPT is non-deterministic, It might be give a wrong result
+## 1. ChatGPT is non-deterministic, It might give a wrong result
 
-This prompt has high possibility to give us a wrong result
+This prompt has a high possibility of giving us a wrong result.
 ```
 
 ```prompt
@@ -261,28 +261,11 @@ Level of writing: High school Well written: Yes
 Writing advice: This is a good introduction to the topic of the Industrial Revolution. It provides a clear and concise overview of the main points. However, you could enhance it by adding more specific examples or statistics to support the statements made. Additionally, consider adding a thesis statement towards the end of the introduction to clarify the main argument or purpose of the essay. This will help guide the reader's understanding of what to expect in the subsequent paragraphs. Overall, it's a good start, and you can build on it to make it even stronger.
 ```
 
-## Takeaways
-The summary of this section is to learn that the prompt format should be like this:  
-1. Context 
-2. Role
-3. An instruction/task/question
-4. Examples (few-shot)
-
-As an example:
-
-```prompt
-January 1, 2000: Fractured right arm playing basketball. Treated with a cast. 
-February 15, 2010: Diagnosed with hypertension. 
-Prescribed lisinopril. September 10, 2015: Developed pneumonia. 
-Treated with antibiotics and recovered fully. March 1, 2022: Sustained a concussion in a car accident. 
-Admitted to the hospital and monitored for 24 hours.
-
-You are a doctor. Read this medical history and predict risks for the patient.
-```
-
-
 # Easy; basic programming knowledge necessary, but no specialized expertise
+WIP
 
 # Intermediate; programming skills and some domain knowledge required (e.g., calculating logarithmic probabilities)
+WIP
 
 # Advanced; programming expertise and in-depth domain understanding needed (e.g., reinforcement learning techniques)
+WIP
