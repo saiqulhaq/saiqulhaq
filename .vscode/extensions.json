@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "mushan.vscode-paste-image"
+        "mushan.vscode-paste-image",
+        "kongkongye.markdownnavigation",
+        "takumii.markdown-toc-num"
     ]
 }

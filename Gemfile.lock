@@ -190,7 +190,7 @@ PLATFORMS
 
 DEPENDENCIES
   faraday-retry
-  http_parser.rb (~> 0.6.0)
+  http_parser.rb
   jekyll (~> 4.1.1)
   jekyll-archives
   jekyll-asciinema
@@ -213,4 +213,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.3.22
+   2.4.10

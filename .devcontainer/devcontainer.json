@@ -1,10 +1,10 @@
 {
 	"name": "Ruby",
-    "image": "vsc-saiqulhaq-183e332838d7ef9168b603268227e5262a6728bb2865d53440b5c840bef5f10c",
-    // "build": {
-    //     "dockerfile": "./Dockerfile",
-    //     "context": "../"
-    // },
+    // "image": "vsc-saiqulhaq-183e332838d7ef9168b603268227e5262a6728bb2865d53440b5c840bef5f10c",
+    "build": {
+        "dockerfile": "./Dockerfile",
+        "context": "../"
+    },
     "features": {
         "ghcr.io/devcontainers/features/common-utils:2": {
             "installZsh": "true",
