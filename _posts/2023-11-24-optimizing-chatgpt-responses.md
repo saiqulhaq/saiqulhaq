@@ -21,7 +21,7 @@ This block means a response from ChatGPT
 The result of 1+1 is 2.
 ```
 
-# Need to understand before we start
+# Important Terms
 
 ## Tokens
 Gen AI, like ChatGPT, doesn't read words in the same way that we do.
