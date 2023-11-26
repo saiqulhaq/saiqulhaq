@@ -21,7 +21,19 @@ This block means a response from ChatGPT
 The result of 1+1 is 2.
 ```
 
-# Important Terms
+# Important To Know
+
+## Pitfalls of LLMs
+
+* LLMs cannot accurately cite sources. It doesn't have the ability to remember where 
+  their training data came from. As a result, they often generate sources that seem plausible but are entirely fabricated.
+* LLMs can exhibit bias in their responses, often generating stereotypical or prejudiced content. 
+  This is because they are trained on large datasets that may contain biased information.
+* LLMs can sometimes "hallucinate" or generate false information when asked a question they do not know the answer to. 
+  Instead of stating that they do not know the answer, they often generate a response that sounds confident but is incorrect.
+* LLms often struggle with mathematical tasks and can provide incorrect answers. 
+  This is because they are trained on large volumes of text and math may require a different approach. 
+* LLMs can be manipulated or "hacked" by users to generate specific content that is inappropriate or harmful content
 
 ## Tokens
 Gen AI, like ChatGPT, doesn't read words in the same way that we do.
@@ -262,7 +274,77 @@ Writing advice: This is a good introduction to the topic of the Industrial Revol
 ```
 
 # Easy; basic programming knowledge necessary, but no specialized expertise
-WIP
+This section focus on solving simple, everyday problems.
+
+## 8. Structuring Data
+We can extract information from the following report by appending Generate a table containing this information: to it.
+
+```prompt
+In a recent business report presentation, the CEO of Zana Corp. 
+Highlighted their remarkable growth in the past fiscal year.
+She shared that the company experienced a 15% increase in revenue, 
+reaching $50 million, with a 12% profit margin ($6 million in net profit). 
+The report also showcased a 20% growth in their customer base, now totaling 100,000 customers. 
+Additionally, the company's operating expenses went up by 10%, amounting to $10 million, 
+while the employee headcount increased by 25%, resulting in a current workforce of 500 employees. 
+
+Generate a table containing this information:
+```
+
+ChatGPT response:
+
+| Metric | Value |
+|---|---|
+| Revenue | $50 million |
+| Profit Margin | 12% |
+| Net Profit | $6 million |
+| Customer Base	| 100,000 |
+| Operating Expenses | $10 million |
+| Employee Headcount | 500 |
+| Revenue Increase | 15% |
+| Customer Increase | 20% |
+| Operating Expenses Increase | 10% |
+| Employee Headcount Increase | 25% |
+
+## 9. Writing An Email
+
+Instruction to send an email
+```prompt
+My Name: Mario
+Boss's name: John
+
+Write a **serious**, professional email to my boss saying that I will be out of office today since I am sick. 
+Be concise:
+```
+### 9.1 Responding to an Email
+
+```prompt
+Dear Mario,
+
+I hope you're doing well. I am writing to provide you with some updates on our company and to request your assistance in addressing an issue with the user interface (UI) of the software you have been working on.
+As you know, our company has been focusing on providing a user-friendly experience to our customers, and we have identified some issues with the UI of the software. Specifically, we have received feedback from our users that they are having difficulty accessing certain features, and that the UI is not intuitive enough.
+We need your help to address these issues and make improvements to the UI of the software. This may involve making changes to the layout, design, or functionality of the UI. We believe that your expertise in software development and your familiarity with the software will make you the ideal person to help us with this task.
+If you need any additional resources or support to complete this task, please do not hesitate to let me know. Additionally, I would appreciate it if you could provide me with an estimated timeline for when you expect these modifications to be completed.
+If you have any questions or need further clarification, please do not hesitate to contact me.
+Thank you for your hard work and dedication to our company. I look forward to hearing back from you soon.
+
+Best regards,
+John
+
+Generate a summary of this and a list of action items.
+```
+
+Another method:
+```prompt
+Summary: John is requesting Mario's assistance in addressing user interface issues with the software Mario has been working on. The issues involve difficulty accessing certain features and the UI not being intuitive enough. Mario's expertise in software development and familiarity with the software make him the ideal person to help with this task.
+
+Action Items:
+- Make changes to the layout, design, or functionality of the UI
+- Request additional resources or support if needed
+- Provide an estimated timeline for completion of modifications
+
+Write a response email from Mario using the above email summary:
+```
 
 # Intermediate; programming skills and some domain knowledge required (e.g., calculating logarithmic probabilities)
 WIP
