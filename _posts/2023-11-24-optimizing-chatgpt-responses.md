@@ -273,10 +273,16 @@ Level of writing: High school Well written: Yes
 Writing advice: This is a good introduction to the topic of the Industrial Revolution. It provides a clear and concise overview of the main points. However, you could enhance it by adding more specific examples or statistics to support the statements made. Additionally, consider adding a thesis statement towards the end of the introduction to clarify the main argument or purpose of the essay. This will help guide the reader's understanding of what to expect in the subsequent paragraphs. Overall, it's a good start, and you can build on it to make it even stronger.
 ```
 
+## 8. Pitfalls of LLMs
+
+Large Language Models (LLMs) are powerful tools that have revolutionized many aspects of technology, from customer service to content creation. However, like any technology, they are not without their flaws. Understanding these pitfalls is crucial for effectively using LLMs and mitigating potential issues. There are common pitfalls of LLMs, such as issues with citing sources, bias, hallucinations, math, and prompt hacking.
+
+In ChatGPT, it uses Python code for Math calculation.
+
 # Easy; basic programming knowledge necessary, but no specialized expertise
 This section focus on solving simple, everyday problems.
 
-## 8. Structuring Data
+## 1. Structuring Data
 We can extract information from the following report by appending Generate a table containing this information: to it.
 
 ```prompt
@@ -306,7 +312,7 @@ ChatGPT response:
 | Operating Expenses Increase | 10% |
 | Employee Headcount Increase | 25% |
 
-## 9. Writing An Email
+## 2. Writing An Email
 
 Instruction to send an email
 ```prompt
@@ -316,7 +322,6 @@ Boss's name: John
 Write a **serious**, professional email to my boss saying that I will be out of office today since I am sick. 
 Be concise:
 ```
-### 9.1 Responding to an Email
 
 ```prompt
 Dear Mario,
@@ -345,6 +350,8 @@ Action Items:
 
 Write a response email from Mario using the above email summary:
 ```
+
+There is a good YouTube video that you can read regarding how to write an email https://www.youtube.com/watch?v=fezN-GtWobg
 
 # Intermediate; programming skills and some domain knowledge required (e.g., calculating logarithmic probabilities)
 WIP
