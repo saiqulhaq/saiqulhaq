@@ -449,6 +449,9 @@
 
 ## rails 
 
+- [fatkodima/data_checks](https://github.com/fatkodima/data_checks) - Regression testing for data
+- [fatkodima/sidekiq-iteration](https://github.com/fatkodima/sidekiq-iteration) - Make your long-running sidekiq jobs interruptible and resumable.
+- [fatkodima/columns_trace](https://github.com/fatkodima/columns_trace) - Detect unnecessary selected database columns
 - [ankane/searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
 - [bullet-train-co/bullet_train](https://github.com/bullet-train-co/bullet_train) - The Open Source Ruby on Rails SaaS Template
 - [templatus/templatus-hotwire](https://github.com/templatus/templatus-hotwire) - Opinionated template for starting new web applications with Ruby on Rails and Hotwire
@@ -479,6 +482,9 @@
 
 ## ruby 
 
+- [fatkodima/data_checks](https://github.com/fatkodima/data_checks) - Regression testing for data
+- [fatkodima/sidekiq-iteration](https://github.com/fatkodima/sidekiq-iteration) - Make your long-running sidekiq jobs interruptible and resumable.
+- [fatkodima/columns_trace](https://github.com/fatkodima/columns_trace) - Detect unnecessary selected database columns
 - [yoshoku/rumale](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 - [stitchfix/stitches](https://github.com/stitchfix/stitches) - Create a Microservice in Rails with minimal ceremony
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖🩵 Now with Assistants, Threads, Messages, Runs and Text to Speech 🍾
