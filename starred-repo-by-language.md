@@ -83,6 +83,7 @@
 
 ## Jupyter Notebook 
 
+- [mickymultani/RAG-Mistral7b](https://github.com/mickymultani/RAG-Mistral7b) - RAG (Retrievel Augmented Generation) implementation using the Mistral-7B-Instruct-v0.1
 - [ankane/ml-stack](https://github.com/ankane/ml-stack) - Machine learning Docker images for Ruby
 
 ## Kotlin 
