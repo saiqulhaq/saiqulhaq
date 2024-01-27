@@ -81,6 +81,7 @@
 - [ubuntu](#ubuntu)
 - [vim](#vim)
 - [web](#web)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [windows](#windows)
 
@@ -573,6 +574,10 @@
 ## web 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## web-development 
+
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
 ## webapp 
 
