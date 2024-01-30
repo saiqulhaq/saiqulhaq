@@ -97,6 +97,7 @@
 
 ## api 
 
+- [lazaronixon/authentication-zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -454,6 +455,7 @@
 
 ## rails 
 
+- [lazaronixon/authentication-zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
 - [fatkodima/data_checks](https://github.com/fatkodima/data_checks) - Regression testing for data
 - [fatkodima/sidekiq-iteration](https://github.com/fatkodima/sidekiq-iteration) - Make your long-running sidekiq jobs interruptible and resumable.
 - [fatkodima/columns_trace](https://github.com/fatkodima/columns_trace) - Detect unnecessary selected database columns
@@ -487,6 +489,7 @@
 
 ## ruby 
 
+- [lazaronixon/authentication-zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
 - [fatkodima/data_checks](https://github.com/fatkodima/data_checks) - Regression testing for data
 - [fatkodima/sidekiq-iteration](https://github.com/fatkodima/sidekiq-iteration) - Make your long-running sidekiq jobs interruptible and resumable.
 - [fatkodima/columns_trace](https://github.com/fatkodima/columns_trace) - Detect unnecessary selected database columns
@@ -522,6 +525,7 @@
 
 ## security 
 
+- [lazaronixon/authentication-zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 
 ## shell 
