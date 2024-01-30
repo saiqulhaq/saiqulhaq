@@ -137,6 +137,7 @@
 
 ## Ruby 
 
+- [lazaronixon/authentication-zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
 - [fatkodima/data_checks](https://github.com/fatkodima/data_checks) - Regression testing for data
 - [fatkodima/sidekiq-iteration](https://github.com/fatkodima/sidekiq-iteration) - Make your long-running sidekiq jobs interruptible and resumable.
 - [fatkodima/columns_trace](https://github.com/fatkodima/columns_trace) - Detect unnecessary selected database columns
