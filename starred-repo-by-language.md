@@ -41,6 +41,7 @@
 
 ## Dockerfile 
 
+- [michaelchanwahyan/datalab](https://github.com/michaelchanwahyan/datalab) - 
 - [matifali/dockerdl](https://github.com/matifali/dockerdl) - Deep Learning Docker Image
 
 ## Go 
@@ -71,6 +72,7 @@
 
 ## JavaScript 
 
+- [nbgallery/nbgallery](https://github.com/nbgallery/nbgallery) - Enterprise Jupyter notebook sharing and collaboration app
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [mifi/ezshare](https://github.com/mifi/ezshare) - Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
