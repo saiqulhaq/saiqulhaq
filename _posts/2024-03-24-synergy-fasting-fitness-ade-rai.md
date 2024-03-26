@@ -1,6 +1,6 @@
 ---
 layout: single
-title: The Synergy of Fasting and Fitness: Insights from Ade Rai
+title: "The Synergy of Fasting and Fitness: Insights from Ade Rai"
 comments: true
 ---
 
