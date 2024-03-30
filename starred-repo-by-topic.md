@@ -383,6 +383,7 @@
 
 ## others 
 
+- [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [michaelchanwahyan/datalab](https://github.com/michaelchanwahyan/datalab) - 
 - [Shopify/cli-ui](https://github.com/Shopify/cli-ui) - CLI tooling framework with simple interactive widgets
 - [mickymultani/RAG-Mistral7b](https://github.com/mickymultani/RAG-Mistral7b) - RAG (Retrievel Augmented Generation) implementation using the Mistral-7B-Instruct-v0.1
