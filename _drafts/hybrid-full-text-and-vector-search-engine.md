@@ -3,6 +3,9 @@ layout: single
 title: Hybrid full text and vector search engine
 ---
 
+https://www.perplexity.ai/search/Can-you-explain-qA49SPc_SAyOD1HDxc6_7Q
+https://github.com/myscale/MyScaleDB
+
 To build a search page for a restaurant booking system that can handle various search criteria such as price range, specific price, location, cuisine, facility, nearest location, and name (including exact, synonym, and similar matches), a hybrid approach combining both full-text search and vector search would be the most effective solution. Here’s why:
 
 ### Full-Text Search
