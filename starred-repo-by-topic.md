@@ -24,6 +24,7 @@
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
+- [database](#database)
 - [deep-learning](#deep-learning)
 - [deployment](#deployment)
 - [design](#design)
@@ -74,6 +75,7 @@
 - [rust](#rust)
 - [sass](#sass)
 - [security](#security)
+- [serverless](#serverless)
 - [shell](#shell)
 - [sql](#sql)
 - [stable-diffusion](#stable-diffusion)
@@ -208,6 +210,10 @@
 ## data-structures 
 
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
+## database 
+
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 
 ## deep-learning 
 
@@ -458,6 +464,7 @@
 
 ## postgresql 
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [sergeyleschev/sergeyleschev](https://github.com/sergeyleschev/sergeyleschev) - Sergey Leschev / Team Lead / CTO. Certificates. Developer Roadmap. 🏆 LeetCode Ranking #Dev: Global TOP 200 🏆 Golden Award Muad'Dib's Challenge 🏆 Golden Award for the Year of the Tiger Challenge.
 
 ## programming 
@@ -538,6 +545,7 @@
 
 ## rust 
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -553,6 +561,10 @@
 
 - [lazaronixon/authentication-zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
+
+## serverless 
+
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 
 ## shell 
 
