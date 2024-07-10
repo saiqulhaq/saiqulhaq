@@ -414,7 +414,7 @@
 - [riseofthecontainers/k8s-objects](https://github.com/riseofthecontainers/k8s-objects) - Demo of all kubernetes session
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [gab0gomes/awesome-career-paths](https://github.com/gab0gomes/awesome-career-paths) - Curated list of awesome career paths frameworks
-- [aws/aws-graviton-getting-started](https://github.com/aws/aws-graviton-getting-started) - Helping developers to use AWS Graviton2 and Graviton3 processors which power the 6th and 7th generation of Amazon EC2 instances (C6g[d], M6g[d], R6g[d], T4g, X2gd, C6gn, I4g, Im4gn, Is4gen, G5g, C7g[d
+- [aws/aws-graviton-getting-started](https://github.com/aws/aws-graviton-getting-started) - Helping developers to use AWS Graviton2, Graviton3, and Graviton4 processors which power the 6th, 7th, and 8th generation of Amazon EC2 instances (C6g[d], M6g[d], R6g[d], T4g, X2gd, C6gn, I4g, Im4gn, 
 - [WeiJiHsiao/pbwsl](https://github.com/WeiJiHsiao/pbwsl) - pbcopy and pbpaste in WSL(Windows Subsystem for Linux)
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
