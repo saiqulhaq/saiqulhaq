@@ -21,6 +21,7 @@
 - [coding](#coding)
 - [computer-science](#computer-science)
 - [css](#css)
+- [cybersecurity](#cybersecurity)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
@@ -62,6 +63,7 @@
 - [osint](#osint)
 - [others](#others)
 - [package-manager](#package-manager)
+- [pentesting](#pentesting)
 - [postgresql](#postgresql)
 - [programming](#programming)
 - [python](#python)
@@ -199,6 +201,10 @@
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 
+## cybersecurity 
+
+- [lunchcat/sif](https://github.com/lunchcat/sif) - 🚀 blazing-fast pentesting suite written in Go
+
 ## data-analysis 
 
 - [yoshoku/rumale](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
@@ -304,6 +310,7 @@
 
 ## hacktoberfest 
 
+- [lunchcat/sif](https://github.com/lunchcat/sif) - 🚀 blazing-fast pentesting suite written in Go
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -462,6 +469,10 @@
 
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
 
+## pentesting 
+
+- [lunchcat/sif](https://github.com/lunchcat/sif) - 🚀 blazing-fast pentesting suite written in Go
+
 ## postgresql 
 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
@@ -559,6 +570,7 @@
 
 ## security 
 
+- [lunchcat/sif](https://github.com/lunchcat/sif) - 🚀 blazing-fast pentesting suite written in Go
 - [lazaronixon/authentication-zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 
