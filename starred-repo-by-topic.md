@@ -16,6 +16,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [coding](#coding)
@@ -167,6 +168,10 @@
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+
+## chatbot 
+
+- [hellostealth/stealth](https://github.com/hellostealth/stealth) - An open source Ruby framework for text and voice chatbots. 🤖
 
 ## chatgpt 
 
