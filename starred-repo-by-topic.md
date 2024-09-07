@@ -70,6 +70,7 @@
 - [project-management](#project-management)
 - [python](#python)
 - [pytorch](#pytorch)
+- [qt](#qt)
 - [rails](#rails)
 - [react](#react)
 - [reactjs](#reactjs)
@@ -512,6 +513,10 @@
 ## pytorch 
 
 - [matifali/dockerdl](https://github.com/matifali/dockerdl) - Deep Learning Docker Image
+
+## qt 
+
+- [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 
 ## rails 
 
