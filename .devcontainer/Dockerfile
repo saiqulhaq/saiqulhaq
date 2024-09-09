@@ -1,35 +1,34 @@
 # [Choice] Ruby version (use -bullseye variants on local arm64/Apple Silicon): 3, 3.2, 3.1, 3.0, 3-bookworm, 3.2-bookworm, 3.1-bookworm, 3-bullseye, 3.2-bullseye, 3.1-bullseye, 3.0-bullseye, 3-buster, 3.2-buster 3.1-buster, 3.0-buster
-ARG VARIANT=3.2-alpine
+ARG VARIANT=3.2
 FROM ruby:${VARIANT}
 
-RUN apk --no-cache add \
-  zlib-dev \
+RUN apt-get update && apt-get install -y \
+  zlib1g-dev \
   libffi-dev \
-  build-base \
+  build-essential \
   libxml2-dev \
-  imagemagick-dev \
-  readline-dev \
-  libxslt-dev \
-  libffi-dev \
-  yaml-dev \
-  zlib-dev \
-  vips-dev \
-  vips-tools \
-  sqlite-dev \
+  libmagickwand-dev \
+  libreadline-dev \
+  libxslt1-dev \
+  libyaml-dev \
+  libvips-dev \
+  libvips-tools \
+  libsqlite3-dev \
   cmake \
   git
 
-RUN apk --no-cache add \
-  readline \
+RUN apt-get update && apt-get install -y \
+  libreadline-dev \
   nodejs \
   bash \
   npm \
-  yarn
+  yarnpkg
 
-RUN echo "gem: --no-ri --no-rdoc" > ~/.gemrc
+RUN echo "gem: --no-document" > ~/.gemrc
 
-COPY Gemfile Gemfile
-COPY Gemfile.lock Gemfile.lock
+WORKDIR /workspace
+COPY Gemfile* ./
+
 RUN bundle install
 
 # [Optional] Uncomment this section to install additional OS packages.
