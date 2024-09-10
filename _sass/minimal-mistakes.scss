@@ -1,7 +1,7 @@
 /*!
- * Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
- * Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
- * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE)
+* Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+* Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+* Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE)
 */
 
 /* Variables */
@@ -68,4 +68,17 @@ code.language-response {
         line-height: 1.8;
         border-radius: 4px;
         white-space: pre-wrap;
+}
+
+.devops-phases {
+        text-align: center;
+        margin: 2em 0;
+        
+        h2 {
+                margin-bottom: 1em;
+        }
+        
+        .btn {
+                margin: 0.5em;
+        }
 }
