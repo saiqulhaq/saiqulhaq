@@ -61,6 +61,7 @@
 - [nodejs](#nodejs)
 - [nosql](#nosql)
 - [numpy](#numpy)
+- [openai](#openai)
 - [osint](#osint)
 - [others](#others)
 - [package-manager](#package-manager)
@@ -415,6 +416,12 @@
 ## numpy 
 
 - [matifali/dockerdl](https://github.com/matifali/dockerdl) - Deep Learning Docker Image
+
+## openai 
+
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ NEW: Assistant Vector Stores
 
 ## osint 
 
