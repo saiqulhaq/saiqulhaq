@@ -177,7 +177,7 @@
 - [camertron/scuttle-server](https://github.com/camertron/scuttle-server) - Server behind scuttle.io, a SQL editor and Arel converter.
 - [voormedia/rails-erd](https://github.com/voormedia/rails-erd) - Generate Entity-Relationship Diagrams for Rails applications
 - [nathanl/searchlight](https://github.com/nathanl/searchlight) - Searchlight helps you build searches from options via Ruby methods that you write.
-- [rails/jsbundling-rails](https://github.com/rails/jsbundling-rails) - Bundle and transpile JavaScript in Rails with esbuild, rollup.js, or Webpack.
+- [rails/jsbundling-rails](https://github.com/rails/jsbundling-rails) - Bundle and transpile JavaScript in Rails with esbuild, rollup.js, bun, or Webpack.
 - [shakacode/shakapacker](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails
 - [varvet/godmin](https://github.com/varvet/godmin) - Admin framework for Rails 5+
 - [kirillplatonov/shopify_app](https://github.com/kirillplatonov/shopify_app) - A Rails Engine for building Shopify Apps
