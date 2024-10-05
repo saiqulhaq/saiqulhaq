@@ -457,7 +457,7 @@
 - [joecritch/dev-terms](https://github.com/joecritch/dev-terms) - A list of generic terminology used by developers
 - [ircmaxell/resume](https://github.com/ircmaxell/resume) - Anthony Ferrara's Resume (CV)
 - [matthewmccullough/human-interaction-templates](https://github.com/matthewmccullough/human-interaction-templates) - Instructional guides, Markdown templates, and more, in the service of interacting well with other people
-- [rails/jsbundling-rails](https://github.com/rails/jsbundling-rails) - Bundle and transpile JavaScript in Rails with esbuild, rollup.js, or Webpack.
+- [rails/jsbundling-rails](https://github.com/rails/jsbundling-rails) - Bundle and transpile JavaScript in Rails with esbuild, rollup.js, bun, or Webpack.
 - [shakacode/shakapacker](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails
 - [hotwired/turbo-ios](https://github.com/hotwired/turbo-ios) - iOS framework for making Turbo native apps
 - [hotwired/turbo-android](https://github.com/hotwired/turbo-android) - Android framework for making Turbo native apps
