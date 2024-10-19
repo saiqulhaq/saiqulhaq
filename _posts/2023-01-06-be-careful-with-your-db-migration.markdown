@@ -4,11 +4,11 @@ title:  "Be Careful With Your Database Migration"
 date:   2023-01-06 08:50:40 +0000
 comments: true
 categories:
-  - Rails
-  - Tips
+  - Technology
+  - Beginner
 tags:
-  - activerecord
-  - strong_migrations
+  - Rails
+  - Database
 header:
   image: https://images.unsplash.com/photo-1520792532857-293bd046307a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&h=300&q=80
 ---

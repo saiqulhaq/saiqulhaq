@@ -3,6 +3,12 @@ layout: single
 title: 'Unraveling the Mystery: Identifying Unknown Queries in Rails'
 comments: true
 date: 2024-02-28 08:47 +0700
+categories:
+  - Technology
+  - Intermediate
+tags:
+  - Rails
+  - Performance
 ---
 In Ruby on Rails ecosystem, encountering unknown or unexpected queries can be a perplexing challenge. This blog post delves into a practical approach to identifying the source of such queries, leveraging the `active_record_query_trace` gem. The journey begins with a peculiar issue that I found in RDS Performance Insight and NewRelic report, where an unknown query surfaced, its origin a mystery. The quest to uncover the source of this query led to the utilization of `active_record_query_trace`, a powerful tool in the arsenal of a Rails developer.
 

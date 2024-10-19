@@ -5,6 +5,13 @@ comments: true
 toc: true
 toc_sticky: true
 date: 2024-09-14 13:45 +0700
+categories: 
+  - Technology
+  - General
+tags: 
+  - Ruby
+  - Rubygem
+  - Docker
 ---
 
 As Ruby developers, we often face challenges when developing and testing gems across multiple Ruby versions and dependencies. Today, I'm excited to introduce Gemdock, a new tool designed to simplify and accelerate this process.

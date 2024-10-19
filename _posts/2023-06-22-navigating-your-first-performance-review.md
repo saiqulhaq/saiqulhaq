@@ -5,13 +5,10 @@ date: 2023-06-22 21:32 +0700
 
 comments: true
 categories:
-  - Management
-  - Employee Development
-  - CTO
+  - Leadership
+  - Beginner
 tags:
-  - performance review
-  - management tips
-  - employee feedback
+  - Performance
 header:
   image: /assets/images/performance-review.jpg
 ---

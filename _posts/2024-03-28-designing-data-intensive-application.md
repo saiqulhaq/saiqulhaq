@@ -3,6 +3,10 @@ layout: single
 title: My Note of Designing Data Intensive Application Book
 comments: true
 date: 2024-03-28 17:44 +0700
+categories:
+  - Data
+  - General
+tags: Notes
 ---
 Data is the new oil in the modern era, and understanding the intricacies of data-intensive applications is crucial for any software engineer or system architect. Martin Kleppmann's "Designing Data-Intensive Applications" is a comprehensive guide that dives deep into the core principles of building reliable, scalable, and maintainable data systems. This blog post summarizes the key concepts from the book, draws on the provided notes, and expands on them with additional insights.
 

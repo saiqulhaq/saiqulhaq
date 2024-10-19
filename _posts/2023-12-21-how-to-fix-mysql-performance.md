@@ -5,6 +5,13 @@ date: 2023-12-21 22:32 +0700
 comments: true
 header:
   image: /assets/images/mysql-speedup.jpg
+categories:
+  - Technology
+  - Beginner
+tags:
+  - MySQL
+  - Database
+  - Performance
 ---
 
 On this video, I share about how to fix our database performance to speed up our backend application.

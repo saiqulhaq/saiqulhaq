@@ -7,6 +7,12 @@ toc_label: Table of Content
 date: 2023-11-24 22:57 +0700
 header:
   image: /assets/images/chatgpt-prompt.jpg
+categories:
+  - Technology
+  - Beginner
+tags:
+  - ChatGPT
+  - Prompting
 ---
 
 This post is a summary from https://learnprompting.org for me to speed up 

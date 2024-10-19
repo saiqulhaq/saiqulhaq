@@ -4,10 +4,10 @@ title:  "How to make Windows WSL remember our ssh passphrase permanently"
 date:   2023-03-24 16:08:40 +0000
 comments: true
 categories:
-  - SSH
-  - Tips
+  - Technology
+  - Beginner
 tags:
-  - wsl
+  - Windows
 header:
   image: https://images.unsplash.com/photo-1629654297299-c8506221ca97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1280&h=300&q=80
 ---

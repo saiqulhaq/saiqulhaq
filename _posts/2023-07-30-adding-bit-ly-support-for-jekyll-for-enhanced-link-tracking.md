@@ -4,11 +4,11 @@ title:  "Adding Bit.ly Support for Jekyll for Enhanced Link Tracking"
 date:  2023-07-30
 comments: true
 categories:
-  - Jekyll
-  - Bitly
+  - Technology
+  - General
 tags:
-  - jekyll-plugins
-  - URL tracking
+  - Jekyll
+  - Rubygem
 header:
   image: /assets/images/jekyll-bitly.jpg
 ---

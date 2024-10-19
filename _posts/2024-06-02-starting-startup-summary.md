@@ -5,6 +5,12 @@ comments: true
 toc: true
 toc_sticky: true
 date: 2024-06-02 00:48 +0700
+categories:
+  - Entrepreneurship
+  - General
+tags:
+  - Notes
+  - Handbook
 ---
 
 [Julian Shapiro's Startup Handbook](https://www.julian.com/guide/startup/intro) is a comprehensive guide designed to help tech startup founders improve their product, growth, recruiting, and fundraising strategies. Below is a summary of the key sections and insights from the handbook:

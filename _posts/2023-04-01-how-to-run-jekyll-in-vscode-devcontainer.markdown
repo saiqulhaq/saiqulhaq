@@ -4,7 +4,8 @@ title: How to Run Jekyll in a VSCode Devcontainer
 date: 2023-04-01
 comments: true
 categories:
-  - Jekyll
+  - Technology
+  - Beginner
 tags:
   - Jekyll
   - VSCode

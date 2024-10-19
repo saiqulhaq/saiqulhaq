@@ -4,8 +4,8 @@ title: Mastering the Art of Task Management
 date: 2023-04-01
 comments: true
 categories:
-  - Productivity
-  - CTO
+  - Leadership
+  - Beginner
 tags:
   - Decision Matrix
   - Time Management

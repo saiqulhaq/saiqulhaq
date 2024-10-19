@@ -4,13 +4,11 @@ title:  Handling Race Conditions in Rails
 date: 2023-06-18 09:31 +0700
 comments: true
 categories:
-  - Rails
-  - Database
+  - Technology
+  - Intermediate
 tags:
-  - Ruby on Rails
-  - Race Conditions
-  - find_or_create_by
-  - create_or_find_by
+  - Rails
+  - Performance
 header:
   image: /assets/images/rails_race_conditions.jpg
 ---

@@ -5,12 +5,10 @@ title: Why You Should Use Constants Instead of String Literals in Ruby
 date: 2023-07-24 11:32 +0700
 comments: true
 categories:
-    Ruby
-    Programming
+  - Technology
+  - Beginner
 tags:
-    Ruby
-    Best Practices
-    Constants
+  - Ruby
 ---
 
 You might have encountered situations where you must represent different states or statuses in your code. For instance, you may be working on a booking system, and each booking can have a status like "confirmed," "canceled," or "arrived." When implementing such functionality, choosing the right approach to represent these statuses is essential. In this blog post, we'll discuss why using constants instead of string literals is a better practice and the benefits it brings to your code.

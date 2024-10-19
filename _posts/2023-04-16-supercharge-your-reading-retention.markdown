@@ -4,7 +4,8 @@ title: Supercharge Your Reading Retention
 date: 2023-04-16
 comments: true
 categories:
-  - Learning
+  - Others
+  - Beginner
 tags:
   - NeuraCache
   - Spaced Repetition

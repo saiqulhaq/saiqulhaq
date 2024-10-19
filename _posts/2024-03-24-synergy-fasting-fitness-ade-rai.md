@@ -2,6 +2,11 @@
 layout: single
 title: "The Synergy of Fasting and Fitness: Insights from Ade Rai"
 comments: true
+categories:
+  - Health
+  - General
+tags:
+  - Ade Rai
 ---
 
 Fasting has been a practice deeply rooted in various cultures and religions for centuries, and its health benefits are being rediscovered and embraced in modern wellness circles. Indonesian bodybuilder and fitness expert Ade Rai shares his insights on how fasting, combined with healthy habits and exercise, can lead to a healthier life. This blog post revises the earlier comprehensive guide on fasting types to incorporate Ade Rai's approach, as discussed in his interview with Desi Anwar.

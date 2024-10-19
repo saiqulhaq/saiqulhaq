@@ -4,7 +4,11 @@ title: How to Create an Executable Test Case for Rails Issues
 date: 2023-05-26 08:08 +0700
 comments: true
 categories:
+  - Technology
+  - Beginner
+tags:
   - Rails
+  - Testing
 header:
   image: /assets/images/rails-test-case.jpg
 ---
