@@ -7,7 +7,7 @@ header:
   image: /assets/images/mysql-speedup.jpg
 categories:
   - Technology
-  - Beginner
+  - Level Beginner
 tags:
   - MySQL
   - Database

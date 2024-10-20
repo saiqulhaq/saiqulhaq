@@ -7,7 +7,7 @@ toc_sticky: true
 date: 2024-06-02 00:48 +0700
 categories:
   - Entrepreneurship
-  - General
+  - Level General
 tags:
   - Notes
   - Handbook

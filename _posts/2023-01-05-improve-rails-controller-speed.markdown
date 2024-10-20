@@ -5,7 +5,7 @@ date:   2023-01-05 18:08:40 +0000
 comments: true
 categories:
   - Technology
-  - Beginner
+  - Level Beginner
 tags:
   - Rails
   - Performance

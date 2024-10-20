@@ -5,7 +5,7 @@ comments: true
 date: 2024-02-28 08:47 +0700
 categories:
   - Technology
-  - Intermediate
+  - Level Intermediate
 tags:
   - Rails
   - Performance

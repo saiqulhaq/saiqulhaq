@@ -6,7 +6,7 @@ date: 2023-07-24 11:32 +0700
 comments: true
 categories:
   - Technology
-  - Beginner
+  - Level Beginner
 tags:
   - Ruby
 ---
@@ -114,4 +114,4 @@ Using constants also allows us to provide meaningful names for status values. Fo
 
 ### Conclusion
 
-As a beginner programmer working with Ruby, adopting best practices early on is essential. When it comes to representing statuses or other fixed values in your code, using constants instead of string literals is a practice that enhances readability, reduces the likelihood of errors, and makes maintenance and refactoring easier. By following this approach, you'll write code that is more organized, safer, and easier to maintain as your projects evolve.
+As a Level Beginner programmer working with Ruby, adopting best practices early on is essential. When it comes to representing statuses or other fixed values in your code, using constants instead of string literals is a practice that enhances readability, reduces the likelihood of errors, and makes maintenance and refactoring easier. By following this approach, you'll write code that is more organized, safer, and easier to maintain as your projects evolve.

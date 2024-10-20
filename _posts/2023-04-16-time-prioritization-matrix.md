@@ -5,7 +5,7 @@ date: 2023-04-01
 comments: true
 categories:
   - Leadership
-  - Beginner
+  - Level Beginner
 tags:
   - Decision Matrix
   - Time Management

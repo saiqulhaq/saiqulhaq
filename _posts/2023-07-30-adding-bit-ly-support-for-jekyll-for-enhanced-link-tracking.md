@@ -5,7 +5,7 @@ date:  2023-07-30
 comments: true
 categories:
   - Technology
-  - General
+  - Level General
 tags:
   - Jekyll
   - Rubygem

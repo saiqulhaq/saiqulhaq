@@ -9,7 +9,7 @@ header:
   image: /assets/images/chatgpt-prompt.jpg
 categories:
   - Technology
-  - Beginner
+  - Level Beginner
 tags:
   - ChatGPT
   - Prompting
@@ -54,7 +54,7 @@ If the conversation or text exceeds the max token limit, the model cannot rememb
 This is why it is sometimes necessary to restate important information or re-prime the chatbot
 (see Priming Chatbots section below).
 
-# Beginner-friendly; no programming required
+# Level Beginner-friendly; no programming required
 
 ## 1. ChatGPT is non-deterministic, It might give a wrong result
 

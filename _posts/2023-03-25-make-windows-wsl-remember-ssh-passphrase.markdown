@@ -5,7 +5,7 @@ date:   2023-03-24 16:08:40 +0000
 comments: true
 categories:
   - Technology
-  - Beginner
+  - Level Beginner
 tags:
   - Windows
 header:

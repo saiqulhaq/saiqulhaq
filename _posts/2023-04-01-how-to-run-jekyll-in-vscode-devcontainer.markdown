@@ -5,7 +5,7 @@ date: 2023-04-01
 comments: true
 categories:
   - Technology
-  - Beginner
+  - Level Beginner
 tags:
   - Jekyll
   - VSCode

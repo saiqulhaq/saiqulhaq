@@ -5,7 +5,7 @@ date: 2023-05-26 08:08 +0700
 comments: true
 categories:
   - Technology
-  - Beginner
+  - Level Beginner
 tags:
   - Rails
   - Testing
@@ -25,7 +25,7 @@ To make the process of creating an executable test case easier, the Rails team h
 
 ### Understanding the `gem` and `main` Templates
 
-The distinction between the `gem` and `main` templates might be confusing for Rails beginners, so let's break it down:
+The distinction between the `gem` and `main` templates might be confusing for Rails Level Beginners, so let's break it down:
 
 -   `gem` templates are used for testing issues with the released version of Rails. If you're experiencing a problem with a Rails gem you've installed via RubyGems, you'll want to use the `gem` template.
     

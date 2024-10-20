@@ -4,7 +4,7 @@ title: "The Synergy of Fasting and Fitness: Insights from Ade Rai"
 comments: true
 categories:
   - Health
-  - General
+  - Level General
 tags:
   - Ade Rai
 ---

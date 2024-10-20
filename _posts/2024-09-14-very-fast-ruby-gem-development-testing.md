@@ -7,7 +7,7 @@ toc_sticky: true
 date: 2024-09-14 13:45 +0700
 categories: 
   - Technology
-  - General
+  - Level General
 tags: 
   - Ruby
   - Rubygem

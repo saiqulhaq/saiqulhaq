@@ -5,7 +5,7 @@ date: 2023-04-16
 comments: true
 categories:
   - Leadership
-  - Beginner
+  - Level Beginner
 tags:
   - Communication
 ---

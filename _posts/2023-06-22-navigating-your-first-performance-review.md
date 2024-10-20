@@ -6,7 +6,7 @@ date: 2023-06-22 21:32 +0700
 comments: true
 categories:
   - Leadership
-  - Beginner
+  - Level Beginner
 tags:
   - Performance
 header:
