@@ -213,7 +213,7 @@
 
 ## cybersecurity 
 
-- [lunchcat/sif](https://github.com/lunchcat/sif) - 🚀 blazing-fast pentesting suite written in Go
+- [lunchcat/sif](https://github.com/lunchcat/sif) - the blazing-fast pentesting suite.
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
 
 ## data-analysis 
@@ -322,7 +322,7 @@
 
 ## hacktoberfest 
 
-- [lunchcat/sif](https://github.com/lunchcat/sif) - 🚀 blazing-fast pentesting suite written in Go
+- [lunchcat/sif](https://github.com/lunchcat/sif) - the blazing-fast pentesting suite.
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -493,7 +493,7 @@
 
 ## pentesting 
 
-- [lunchcat/sif](https://github.com/lunchcat/sif) - 🚀 blazing-fast pentesting suite written in Go
+- [lunchcat/sif](https://github.com/lunchcat/sif) - the blazing-fast pentesting suite.
 
 ## postgresql 
 
@@ -600,7 +600,7 @@
 
 ## security 
 
-- [lunchcat/sif](https://github.com/lunchcat/sif) - 🚀 blazing-fast pentesting suite written in Go
+- [lunchcat/sif](https://github.com/lunchcat/sif) - the blazing-fast pentesting suite.
 - [lazaronixon/authentication-zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 
