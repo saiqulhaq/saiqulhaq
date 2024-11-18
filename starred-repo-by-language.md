@@ -17,6 +17,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MDX](#mdx)
+- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
@@ -94,6 +95,7 @@
 
 ## Jupyter Notebook 
 
+- [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain) - Everything you need to know to build your own RAG application
 - [mickymultani/RAG-Mistral7b](https://github.com/mickymultani/RAG-Mistral7b) - RAG (Retrievel Augmented Generation) implementation using the Mistral-7B-Instruct-v0.1
 - [ankane/ml-stack](https://github.com/ankane/ml-stack) - Machine learning Docker images for Ruby
 
@@ -108,6 +110,10 @@
 ## MDX 
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+
+## Makefile 
+
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 
 ## Markdown 
 
@@ -146,6 +152,8 @@
 
 ## Python 
 
+- [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
+- [PrithivirajDamodaran/Route0x](https://github.com/PrithivirajDamodaran/Route0x) - Low latency, High Accuracy, Custom Query routers for Co-pilots and Agents. Built by Prithivi Da
 - [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
@@ -230,6 +238,7 @@
 
 ## TypeScript 
 
+- [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡  Supercharge your Perplexity.ai
 - [mifi/ezshare](https://github.com/mifi/ezshare) - Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
