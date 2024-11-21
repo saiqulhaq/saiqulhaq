@@ -75,6 +75,7 @@
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - [Kamona-WD/starter-dashboard-layout](https://github.com/Kamona-WD/starter-dashboard-layout) - Responsive dashboard layout
 - [DataScienceSpecialization/courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## Java 
 
@@ -147,7 +148,6 @@
 - [timoxley/best-practices](https://github.com/timoxley/best-practices) - Tidbits of developer best practices from around the web
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Lokaltog/vim-powerline](https://github.com/Lokaltog/vim-powerline) - Moved to powerline/powerline.
 
 ## Python 
