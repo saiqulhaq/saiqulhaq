@@ -8,3 +8,16 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 {% seo %}
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const links = document.querySelectorAll('a[href^="http"]:not([href*="yourdomain.com"])');
+  
+  links.forEach(link => {
+    const text = link.textContent.trim();
+    if (/^\d+$/.test(text) || text.length <= 2) {
+      link.classList.add('footnote-link');
+    }
+  });
+});
+</script>

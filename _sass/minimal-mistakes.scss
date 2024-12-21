@@ -69,3 +69,21 @@ code.language-response {
         border-radius: 4px;
         white-space: pre-wrap;
 }
+
+
+/* Styles for footnote links */
+a.footnote-link {
+        font-size: 0.8em;
+        vertical-align: super;
+        line-height: 0;
+        text-decoration: none;
+}
+
+/* Add square brackets to footnote links */
+a.footnote-link::before {
+        content: "[";
+}
+
+a.footnote-link::after {
+        content: "]";
+}
