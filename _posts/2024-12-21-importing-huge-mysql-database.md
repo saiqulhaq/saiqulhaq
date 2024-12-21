@@ -12,6 +12,7 @@ tags:
 - MySQL
 date: 2024-12-21 11:14 +0700
 ---
+
 Importing large MySQL database dumps can be challenging, especially when dealing with AWS RDS snapshots and potential errors during the process. This guide explores efficient methods for downloading RDS snapshots, importing them to local databases, and optimizing the import process for MySQL while addressing common issues such as view errors and foreign key constraints.
 
 ## Export the Database
