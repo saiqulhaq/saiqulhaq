@@ -168,6 +168,7 @@
 
 ## Ruby 
 
+- [caxlsx/caxlsx](https://github.com/caxlsx/caxlsx) - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents withou
 - [Shopify/cli-ui](https://github.com/Shopify/cli-ui) - CLI tooling framework with simple interactive widgets
 - [lazaronixon/authentication-zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
 - [fatkodima/data_checks](https://github.com/fatkodima/data_checks) - Regression testing for data
