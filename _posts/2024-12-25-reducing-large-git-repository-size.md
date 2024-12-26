@@ -172,7 +172,7 @@ Key features of GitHub Branch Cleaner include:
 
 To implement GitHub Branch Cleaner in your workflow, add it to your GitHub Actions configuration file (.github/workflows/cleanup.yml) with the following structure:
 
-```text
+```yaml
 name: Branch Cleanup
 on:
   schedule:
@@ -190,6 +190,38 @@ jobs:
 
 This setup will run the cleaner daily, protecting the 'main' and 'develop' branches while removing inactive branches older than 7 days [1](https://github.com/marketplace/actions/github-branch-cleaner). Adjust the parameters as needed to suit your project's specific requirements.
 To ensure proper functionality, ensure the GitHub Actions workflow has sufficient permissions to delete branches. You may need to grant write access by setting permissions in your workflow file, as specified in the troubleshooting section of the action-branches-cleaner README.
+
+### Run it in self-hosted runner
+
+Github Branch Cleaner has a dependency to `jq`, so we have to install it first if we use it in self-hosted Github runner.
+
+```yaml
+name: Clean Branches
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs at 00:00 UTC every day
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  cleanup-branches:
+    runs-on: self-hosted
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+          
+      - name: Clean Branches
+        uses: mmorenoregalado/action-branches-cleaner@v2.0.2
+        with:
+          base_branches: main,develop  # Adjust these to your main branches
+          token: ${{ secrets.GITHUB_TOKEN }}
+          days_old_threshold: 60  # Adjust this value as needed
+```
 
 
 ---
