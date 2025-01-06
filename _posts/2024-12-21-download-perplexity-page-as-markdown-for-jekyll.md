@@ -11,12 +11,17 @@ tags:
 - Jekyll
 ---
 
-Converting Perplexity's page into markdown text for reposting on a Jekyll website or any markdown-based blog can be streamlined using a mix of CSS styling and JavaScript. This method ensures that external links are automatically formatted into superscript numbers enclosed in square brackets, resembling traditional academic citations.
+Converting Perplexity's page into markdown text for reposting on a Jekyll website or any markdown-based blog can be streamlined using a mix of CSS styling and JavaScript.
+This method ensures that external links are automatically formatted into superscript numbers enclosed in square brackets, resembling traditional academic citations.
 
 By leveraging these tools, you can maintain a clean and professional appearance for references while ensuring compatibility with markdown-based platforms like Jekyll.
 
 ## Save my Chatbot Extension
-"Save my Chatbot - AI Conversation Exporter" is a Chrome extension designed to simplify the process of saving conversations from various AI chatbots, including Perplexity, into markdown files [1](https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter) [2](https://chrome-stats.com/d/agklnagmfeooogcppjccdnoallkhgkod). This tool allows users to download their chat threads with a single click, preserving the content in a structured format ideal for offline storage, integration with note-taking apps, or sharing with others [1](https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter) [2](https://chrome-stats.com/d/agklnagmfeooogcppjccdnoallkhgkod).
+
+"Save my Chatbot - AI Conversation Exporter" is a Chrome extension designed to simplify the process of saving conversations from various AI chatbots, 
+including Perplexity, into markdown files [1](https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter) [2](https://chrome-stats.com/d/agklnagmfeooogcppjccdnoallkhgkod). 
+This tool allows users to download their chat threads with a single click, preserving the content in a structured format ideal for offline storage, 
+integration with note-taking apps, or sharing with others [1](https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter) [2](https://chrome-stats.com/d/agklnagmfeooogcppjccdnoallkhgkod).
 
 Key features of the extension include:
 
@@ -37,13 +42,23 @@ To use the extension, navigate to a supported chat page and click the extension 
 - [(3) I made an extension to export Perplexity threads into markdown files](https://www.reddit.com/r/perplexity_ai/comments/16n2g3d/i_made_an_extension_to_export_perplexity_threads/)
 
 
-## Custom Sources Plugin
-To create a custom Jekyll plugin that enhances the `Sources` section's appearance, we can use Jekyll's plugin system to generate a neatly formatted bibliography. This approach will help maintain consistency and improve the readability of your references. Here's how to implement a custom plugin for this purpose:
+## Custom Jekyll Plugin for Sources Section
 
-First, create a new Ruby file in your Jekyll project's `_plugins` directory, naming it `sources_rewriter.rb`. In this file, you can use the plugin available at [this GitHub link](https://github.com/saiqulhaq/saiqulhaq/blob/master/_plugins/sources_rewriter.rb) to simplify the process. The plugin utilizes `details` and `summary` HTML tags to compactly display the `Sources` section. It processes each post on your site by identifying and rewriting the `Sources` section into collapsible details, ensuring sources are presented as an ordered list with clickable links where applicable. This method saves space while maintaining accessibility and readability.
+To create a custom Jekyll plugin that enhances the `Sources` section's appearance, we can use Jekyll's plugin system to generate a neatly formatted bibliography. 
+This approach will help maintain consistency and improve the readability of your references. 
+Here's how to implement a custom plugin for this purpose:
 
-To integrate this plugin effectively, ensure a `Sources` marker splits your post content. The plugin formats the sources into an HTML structure using the provided logic and appends the processed content to the post. Following these steps and using the script will make your `Sources` section visually appealing and functional.
+First, create a new Ruby file in your Jekyll project's `_plugins` directory, naming it `sources_rewriter.rb`. 
+In this file, you can use the plugin available at [this GitHub link]({{"https://github.com/saiqulhaq/saiqulhaq/blob/master/_plugins/sources_rewriter.rb" | bitly}}) to simplify the process. 
 
+The plugin utilizes `details` and `summary` HTML tags to compactly display the `Sources` section. 
+It processes each post on your site by identifying and rewriting the `Sources` section into collapsible details, 
+ensuring sources are presented as an ordered list with clickable links where applicable. 
+This method saves space while maintaining accessibility and readability.
+
+To integrate this plugin effectively, ensure a `Sources` marker splits your post content. 
+The plugin formats the sources into an HTML structure using the provided logic and appends the processed content to the post. 
+Following these steps and using the script will make your `Sources` section visually appealing and functional.
 
 ---
 **Sources:**
