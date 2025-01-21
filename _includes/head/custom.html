@@ -12,7 +12,7 @@
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const links = document.querySelectorAll('a[href^="http"]:not([href*="saiqulhaq.com"])');
-  
+
   links.forEach(link => {
     const text = link.textContent.trim();
     if (/^\d+$/.test(text) || text.length <= 2) {
