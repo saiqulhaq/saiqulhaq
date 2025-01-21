@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Tips on storing logs to OpenSearch using Fluentbit
+description: "Tips for effectively storing logs in OpenSearch using Fluent Bit involves addressing challenges: flushing failures, buffer overflow, data backpressure, and optimizing index and shard configurations."
 date: 2025-01-21 15:13 +0700
 comments: true
 toc: true
@@ -12,10 +13,10 @@ tags:
 - Fluentbit
 - OpenSearch
 header:
-  image: https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1280&q=80&h=300
+  image: /assets/images/fluentbit.jpeg
   image_description: https://unsplash.com/photos/two-person-standing-on-gray-tile-paving-TamMbr4okv4
-
 ---
+
 Effectively storing logs in OpenSearch using Fluent Bit involves addressing challenges such as chunk flushing failures, buffer overflow, data backpressure, and optimizing index and shard configurations. By fine-tuning Fluent Bit settings, enabling verbose logging for debugging, implementing Index State Management policies, and leveraging performance monitoring tools like Grafana, these strategies ensure efficient log delivery, robust data retention, and improved cluster performance.
 
 ## Buffer Overflow Management
