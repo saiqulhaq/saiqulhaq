@@ -21,6 +21,7 @@ group :jekyll_plugins do
   gem 'jekyll-bitly', github: 'saiqulhaq/jekyll-bitly'
   gem 'jekyll-compose'
   gem 'jekyll-data'
+  gem 'jekyll-dotenv'
   gem 'jekyll-feed'
   gem 'jekyll-gist'
   gem 'jekyll_include_plugin'
