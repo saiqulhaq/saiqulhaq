@@ -25,9 +25,11 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Zig](#zig)
 
 ## C 
 
@@ -87,6 +89,7 @@
 
 ## JavaScript 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [nbgallery/nbgallery](https://github.com/nbgallery/nbgallery) - Enterprise Jupyter notebook sharing and collaboration app
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
@@ -100,6 +103,8 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, an
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain) - Everything you need to know to build your own RAG application
 - [mickymultani/RAG-Mistral7b](https://github.com/mickymultani/RAG-Mistral7b) - RAG (Retrievel Augmented Generation) implementation using the Mistral-7B-Instruct-v0.1
@@ -155,6 +160,9 @@
 
 ## Python 
 
+- [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason) - This is a replicate of DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data
+- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -241,6 +249,10 @@
 
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
+## Svelte 
+
+- [amanvirparhar/elara](https://github.com/amanvirparhar/elara) - A simple tool to anonymize LLM prompts.
+
 ## Swift 
 
 - [sindresorhus/macos-trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash
@@ -248,6 +260,7 @@
 
 ## TypeScript 
 
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
 - [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡  Supercharge your Perplexity.ai
 - [mifi/ezshare](https://github.com/mifi/ezshare) - Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
@@ -257,6 +270,10 @@
 ## Vim Script 
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+## Zig 
+
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
 
 ## License
