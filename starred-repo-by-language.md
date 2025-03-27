@@ -111,7 +111,7 @@
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, an
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
-- [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain) - Everything you need to know to build your own RAG application
+- [BragAI/bRAG-langchain](https://github.com/BragAI/bRAG-langchain) - Everything you need to know to build your own RAG application
 - [mickymultani/RAG-Mistral7b](https://github.com/mickymultani/RAG-Mistral7b) - RAG (Retrievel Augmented Generation) implementation using the Mistral-7B-Instruct-v0.1
 - [ankane/ml-stack](https://github.com/ankane/ml-stack) - Machine learning Docker images for Ruby
 
