@@ -115,7 +115,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-- [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain) - Everything you need to know to build your own RAG application
+- [BragAI/bRAG-langchain](https://github.com/BragAI/bRAG-langchain) - Everything you need to know to build your own RAG application
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Responses API + DeepSeek!
@@ -195,7 +195,7 @@
 ## chatbot 
 
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, an
-- [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain) - Everything you need to know to build your own RAG application
+- [BragAI/bRAG-langchain](https://github.com/BragAI/bRAG-langchain) - Everything you need to know to build your own RAG application
 - [hellostealth/stealth](https://github.com/hellostealth/stealth) - An open source Ruby framework for text and voice chatbots. 🤖
 
 ## chatgpt 
@@ -427,7 +427,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
-- [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain) - Everything you need to know to build your own RAG application
+- [BragAI/bRAG-langchain](https://github.com/BragAI/bRAG-langchain) - Everything you need to know to build your own RAG application
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024
 
 ## lua 
@@ -438,7 +438,7 @@
 ## machine-learning 
 
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, an
-- [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain) - Everything you need to know to build your own RAG application
+- [BragAI/bRAG-langchain](https://github.com/BragAI/bRAG-langchain) - Everything you need to know to build your own RAG application
 - [yoshoku/rumale](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
@@ -593,7 +593,7 @@
 ## python 
 
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
-- [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain) - Everything you need to know to build your own RAG application
+- [BragAI/bRAG-langchain](https://github.com/BragAI/bRAG-langchain) - Everything you need to know to build your own RAG application
 - [matifali/dockerdl](https://github.com/matifali/dockerdl) - Deep Learning Docker Image
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
