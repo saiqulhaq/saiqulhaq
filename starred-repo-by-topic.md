@@ -376,6 +376,7 @@
 
 ## golang 
 
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -446,6 +447,7 @@
 
 ## llm 
 
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
@@ -537,6 +539,7 @@
 
 ## others 
 
+- [yoheinakajima/mindgraph](https://github.com/yoheinakajima/mindgraph) - proof of concept prototype for generating and querying against an ever-expanding knowledge graph with ai
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [omagdy7/ollama-logseq](https://github.com/omagdy7/ollama-logseq) - Logseq plugin to integerate with ollama
 - [amanvirparhar/elara](https://github.com/amanvirparhar/elara) - A simple tool to anonymize LLM prompts.
