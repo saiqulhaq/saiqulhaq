@@ -11,6 +11,7 @@
 - [artificial-intelligence](#artificial-intelligence)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [aws](#aws)
 - [azure](#azure)
 - [backend](#backend)
 - [bash](#bash)
@@ -68,6 +69,7 @@
 - [monitoring](#monitoring)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
+- [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
 - [nodejs](#nodejs)
@@ -172,6 +174,10 @@
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
+
+## aws 
+
+- [awslabs/Renate](https://github.com/awslabs/Renate) - Library for automatic retraining and continual learning
 
 ## azure 
 
@@ -447,6 +453,7 @@
 
 ## llm 
 
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
@@ -468,6 +475,7 @@
 
 ## machine-learning 
 
+- [awslabs/Renate](https://github.com/awslabs/Renate) - Library for automatic retraining and continual learning
 - [patterns-ai-core/langchainrb](https://github.com/patterns-ai-core/langchainrb) - Build LLM-powered applications in Ruby
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, an
@@ -499,6 +507,10 @@
 - [jamestthompson3/nvim-remote-containers](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside docker containers, just like VSCode
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+## neural-network 
+
+- [awslabs/Renate](https://github.com/awslabs/Renate) - Library for automatic retraining and continual learning
 
 ## nextjs 
 
@@ -539,6 +551,8 @@
 
 ## others 
 
+- [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
+- [cncf/velocity](https://github.com/cncf/velocity) - 🚅Track development velocity
 - [yoheinakajima/mindgraph](https://github.com/yoheinakajima/mindgraph) - proof of concept prototype for generating and querying against an ever-expanding knowledge graph with ai
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [omagdy7/ollama-logseq](https://github.com/omagdy7/ollama-logseq) - Logseq plugin to integerate with ollama
@@ -635,6 +649,7 @@
 
 ## python 
 
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
@@ -647,6 +662,8 @@
 
 ## pytorch 
 
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [awslabs/Renate](https://github.com/awslabs/Renate) - Library for automatic retraining and continual learning
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [matifali/dockerdl](https://github.com/matifali/dockerdl) - Deep Learning Docker Image
 
@@ -744,6 +761,7 @@
 
 ## shell 
 
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 
 ## software 
