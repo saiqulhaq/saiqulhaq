@@ -60,7 +60,7 @@
 ## Go 
 
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-- [lunchcat/sif](https://github.com/lunchcat/sif) - the blazing-fast pentesting suite.
+- [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [puma/puma-dev](https://github.com/puma/puma-dev) - A tool to manage rack apps in development with puma
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
