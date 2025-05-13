@@ -104,12 +104,14 @@
 - [stable-diffusion](#stable-diffusion)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [tailwind](#tailwind)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [vim](#vim)
 - [web](#web)
 - [web-development](#web-development)
@@ -807,6 +809,10 @@
 
 - [sergeyleschev/sergeyleschev](https://github.com/sergeyleschev/sergeyleschev) - Sergey Leschev / Team Lead / CTO. Certificates. Developer Roadmap. 🏆 LeetCode Ranking #Dev: Global TOP 200 🏆 Golden Award Muad'Dib's Challenge 🏆 Golden Award for the Year of the Tiger Challenge.
 
+## tailwind 
+
+- [nickjj/docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose.
+
 ## tensorflow 
 
 - [matifali/dockerdl](https://github.com/matifali/dockerdl) - Deep Learning Docker Image
@@ -836,6 +842,10 @@
 ## ubuntu 
 
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
+
+## ui 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## vim 
 
