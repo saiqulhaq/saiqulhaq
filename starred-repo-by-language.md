@@ -268,6 +268,7 @@
 
 ## Shell 
 
+- [scmbreeze/scm_breeze](https://github.com/scmbreeze/scm_breeze) - Adds numbered shortcuts to the output git status, and much more
 - [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
 - [cncf/velocity](https://github.com/cncf/velocity) - 🚅Track development velocity
 - [WeiJiHsiao/pbwsl](https://github.com/WeiJiHsiao/pbwsl) - pbcopy and pbpaste in WSL(Windows Subsystem for Linux)
