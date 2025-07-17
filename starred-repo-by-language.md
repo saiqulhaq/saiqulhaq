@@ -113,6 +113,7 @@
 - [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) - This is a workshop designed for Amazon Bedrock a foundational model service.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, an
+- [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [BragAI/bRAG-langchain](https://github.com/BragAI/bRAG-langchain) - Everything you need to know to build your own RAG application
 - [mickymultani/RAG-Mistral7b](https://github.com/mickymultani/RAG-Mistral7b) - RAG (Retrievel Augmented Generation) implementation using the Mistral-7B-Instruct-v0.1
@@ -193,7 +194,6 @@
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
-- [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
 - [PrithivirajDamodaran/Route0x](https://github.com/PrithivirajDamodaran/Route0x) - Low latency, High Accuracy, Custom Query routers for Humans and Agents. Built by Prithivi Da
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
