@@ -668,7 +668,7 @@
 - [mechio/takana](https://github.com/mechio/takana) - Takana lets you see your SCSS and CSS style changes live, in the browser, as you type them
 - [curran/screencasts](https://github.com/curran/screencasts) - Code that goes along with my screencasts.
 - [barsoom/devbook](https://github.com/barsoom/devbook) - Barsoom developer's handbook
-- [radar/guides](https://github.com/radar/guides) - Guides for Ruby and Elixir and whatever else I feel like
+- [radar/guides-old](https://github.com/radar/guides-old) - Guides for Ruby and Elixir and whatever else I feel like
 - [dideler/bootstrapping](https://github.com/dideler/bootstrapping) - :boot: a list of useful resources to get up and running quickly
 - [timoxley/best-practices](https://github.com/timoxley/best-practices) - Tidbits of developer best practices from around the web
 - [piscolomo/ruby-patterns](https://github.com/piscolomo/ruby-patterns) - Examples of Patterns in Ruby
