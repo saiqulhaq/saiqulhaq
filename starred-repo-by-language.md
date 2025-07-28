@@ -211,6 +211,8 @@
 
 ## Ruby 
 
+- [Shopify/pitchfork](https://github.com/Shopify/pitchfork) - 
+- [Shopify/maintenance_tasks](https://github.com/Shopify/maintenance_tasks) - A Rails engine for queueing and managing data migrations.
 - [patterns-ai-core/langchainrb](https://github.com/patterns-ai-core/langchainrb) - Build LLM-powered applications in Ruby
 - [railsjazz/lazy_value](https://github.com/railsjazz/lazy_value) - Rails Lazy value loader
 - [caxlsx/caxlsx](https://github.com/caxlsx/caxlsx) - xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents withou
@@ -234,7 +236,6 @@
 - [nathanl/searchlight](https://github.com/nathanl/searchlight) - Searchlight helps you build searches from options via Ruby methods that you write.
 - [rails/jsbundling-rails](https://github.com/rails/jsbundling-rails) - Bundle and transpile JavaScript in Rails with esbuild, rollup.js, bun, or Webpack.
 - [shakacode/shakapacker](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails
-- [varvet/godmin](https://github.com/varvet/godmin) - Admin framework for Rails 5+
 - [kirillplatonov/shopify_app](https://github.com/kirillplatonov/shopify_app) - A Rails Engine for building Shopify Apps
 - [bogdan/datagrid](https://github.com/bogdan/datagrid) - Gem to create tables grids with sortable columns and filters
 - [rvshare/sidekiq-control](https://github.com/rvshare/sidekiq-control) - Start Sidekiq jobs from the web interface!
