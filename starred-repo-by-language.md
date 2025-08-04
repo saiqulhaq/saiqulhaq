@@ -61,6 +61,7 @@
 
 ## Go 
 
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -211,6 +212,8 @@
 
 ## Ruby 
 
+- [obie/claude-on-rails](https://github.com/obie/claude-on-rails) - A development framework for Ruby on Rails developers using Claude Code, inspired by SuperClaude
+- [parruda/claude-swarm](https://github.com/parruda/claude-swarm) - Easily launch a Claude Code session that is connected to a swarm of Claude Code Agents
 - [Shopify/pitchfork](https://github.com/Shopify/pitchfork) - 
 - [Shopify/maintenance_tasks](https://github.com/Shopify/maintenance_tasks) - A Rails engine for queueing and managing data migrations.
 - [patterns-ai-core/langchainrb](https://github.com/patterns-ai-core/langchainrb) - Build LLM-powered applications in Ruby
@@ -271,6 +274,7 @@
 
 ## Shell 
 
+- [speedshop/ids_must_be_indexed](https://github.com/speedshop/ids_must_be_indexed) - A GitHub Action to ensure all Rails application foreign key columns are indexed
 - [scmbreeze/scm_breeze](https://github.com/scmbreeze/scm_breeze) - Adds numbered shortcuts to the output git status, and much more
 - [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
 - [cncf/velocity](https://github.com/cncf/velocity) - 🚅Track development velocity
