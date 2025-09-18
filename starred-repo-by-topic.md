@@ -614,6 +614,7 @@
 
 ## others 
 
+- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [mutiaraauliya/chatbotuniv](https://github.com/mutiaraauliya/chatbotuniv) - 
 - [Strech/sidekiq-prometheus-exporter](https://github.com/Strech/sidekiq-prometheus-exporter) - All the basic metrics of Sidekiq with pluggable contribs prepared for Prometheus
 - [modelcontextprotocol/ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.
