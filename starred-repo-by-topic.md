@@ -124,6 +124,7 @@
 - [webapp](#webapp)
 - [windows](#windows)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -946,6 +947,13 @@
 ## zig 
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
+
+## zsh 
+
+- [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+- [gsamokovarov/jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 
 
 ## License
