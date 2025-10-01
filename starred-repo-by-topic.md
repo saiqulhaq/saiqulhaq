@@ -123,6 +123,7 @@
 - [web](#web)
 - [web-development](#web-development)
 - [webapp](#webapp)
+- [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [zig](#zig)
 - [zsh](#zsh)
@@ -945,6 +946,10 @@
 ## webapp 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## whatsapp-bot 
+
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 
 ## windows 
 
