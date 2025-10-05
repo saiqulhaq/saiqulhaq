@@ -242,6 +242,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  csv
   faraday-retry
   http_parser.rb
   jekyll
