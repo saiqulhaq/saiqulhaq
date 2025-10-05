@@ -75,7 +75,7 @@ If you've been working with remote servers for any length of time, your `~/.ssh/
 
 ### Installing manssh
 
-```
+```bash
 brew tap xwjdsh/tap
 brew install xwjdsh/tap/manssh
 ```
@@ -92,7 +92,7 @@ and move it to your `$PATH` folder.
 
 `ssh-prompter` supports folder organization. You can structure your hosts hierarchically:
 
-```
+```bash
 # Using manssh with folder notation
 manssh add production/web-01 root@10.0.2.1
 manssh add production/web-02 root@10.0.2.2
@@ -101,7 +101,7 @@ manssh add development/local-vm root@192.168.1.100
 ```
 
 Or add a Folder option to existing hosts:
-```
+```bash
 manssh update k8s-master -c Folder=kubernetes
 manssh update k8s-worker1 -c Folder=kubernetes
 ```
@@ -110,7 +110,7 @@ manssh update k8s-worker1 -c Folder=kubernetes
 
 ## Querying and Managing Existing Configs
 
-```
+```bash
 # List all hosts
 manssh list
 
