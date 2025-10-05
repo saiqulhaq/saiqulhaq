@@ -220,6 +220,7 @@
 
 ## Ruby 
 
+- [palkan/isolator](https://github.com/palkan/isolator) - Detect non-atomic interactions within DB transactions
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [AlexB52/retest](https://github.com/AlexB52/retest) - A trusty CLI companion to monitor file changes and automatically run the corresponding Ruby specs. Ready to assist on any Ruby project, no setup needed!
 - [Strech/sidekiq-prometheus-exporter](https://github.com/Strech/sidekiq-prometheus-exporter) - All the basic metrics of Sidekiq with pluggable contribs prepared for Prometheus
