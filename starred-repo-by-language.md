@@ -240,7 +240,6 @@
 - [ankane/searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
 - [yoshoku/rumale](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 - [stitchfix/stitches](https://github.com/stitchfix/stitches) - Create a Microservice in Rails with minimal ceremony
-- [bullet-train-co/bullet_train](https://github.com/bullet-train-co/bullet_train) - The Open Source Ruby on Rails SaaS Template
 - [templatus/templatus-hotwire](https://github.com/templatus/templatus-hotwire) - Opinionated template for starting new web applications with Ruby on Rails and Hotwire
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [nickjj/docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose.
