@@ -18,6 +18,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Less](#less)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Markdown](#markdown)
@@ -63,6 +64,7 @@
 
 ## Go 
 
+- [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
@@ -129,6 +131,10 @@
 ## Kotlin 
 
 - [hotwired/turbo-android](https://github.com/hotwired/turbo-android) - Android framework for making Turbo native apps
+
+## Less 
+
+- [publify/publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
 
 ## Lua 
 
@@ -221,6 +227,21 @@
 
 ## Ruby 
 
+- [ruby-china/homeland](https://github.com/ruby-china/homeland) - :circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.
+- [danmayer/coverband](https://github.com/danmayer/coverband) - Ruby production code coverage collection and reporting (line of code usage)
+- [TrestleAdmin/trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails
+- [karafka/karafka](https://github.com/karafka/karafka) - Ruby and Rails efficient Kafka processing framework
+- [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
+- [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications
+- [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
+- [solidusio/solidus](https://github.com/solidusio/solidus) - 🛒 Solidus, the open-source eCommerce framework for industry trailblazers.
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+- [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
+- [spree/spree](https://github.com/spree/spree) - An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails
+- [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
+- [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [yabeda-rb/yabeda](https://github.com/yabeda-rb/yabeda) - Extendable framework for collecting and exporting metrics from your Ruby application
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
 - [palkan/isolator](https://github.com/palkan/isolator) - Detect non-atomic interactions within DB transactions
@@ -247,7 +268,6 @@
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [nickjj/docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose.
 - [nevir/Bumbler](https://github.com/nevir/Bumbler) - Track the load progress of your Bundler-based projects
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ GPT-5 & Realtime WebRTC compatible!
 - [cuber-cloud/cuber-gem](https://github.com/cuber-cloud/cuber-gem) - An automation tool that simplify the deployment of your apps on Kubernetes.
 - [camertron/scuttle-server](https://github.com/camertron/scuttle-server) - Server behind scuttle.io, a SQL editor and Arel converter.
 - [voormedia/rails-erd](https://github.com/voormedia/rails-erd) - Generate Entity-Relationship Diagrams for Rails applications
@@ -320,6 +340,7 @@
 
 ## TypeScript 
 
+- [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [docker/compose-for-agents](https://github.com/docker/compose-for-agents) - Build and run AI agents using Docker Compose. A collection of ready-to-use examples for orchestrating open-source LLMs, tools, and agent runtimes.
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
