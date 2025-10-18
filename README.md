@@ -6,6 +6,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=saiqulhaq&count_private=true&show_icons=true&theme=nord)
 
-![Metrics](https://github.com/saiqulhaq/saiqulhaq/blob/master/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/saiqulhaq/saiqulhaq/refs/heads/main/github-metrics.svg)
 
 Tools that I ❤️ by [topic](https://github.com/saiqulhaq/saiqulhaq/blob/master/starred-repo-by-topic.md) or [language](https://github.com/saiqulhaq/saiqulhaq/blob/master/starred-repo-by-language.md)
