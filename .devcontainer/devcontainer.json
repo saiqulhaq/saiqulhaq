@@ -27,9 +27,6 @@
     },
     // Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [4000],
-
-    // Use 'postCreateCommand' to run commands after the container is created.
-    "postCreateCommand": "bundle install && bundle exec jekyll serve -D -l",
     
     "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached",
     "workspaceFolder": "/workspace",
