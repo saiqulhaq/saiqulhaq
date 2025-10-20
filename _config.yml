@@ -63,13 +63,6 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-# Analytics
-analytics:
-  provider               : "google-gtag"
-  google:
-    tracking_id          : G-SSPMXQQBF3
-    anonymize_ip         : false
-
 # Site Author
 author:
   name             : "Saiqul Haq"
