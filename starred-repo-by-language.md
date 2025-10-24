@@ -189,7 +189,6 @@
 
 ## Python 
 
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 - [mutiaraauliya/chatbotuniv](https://github.com/mutiaraauliya/chatbotuniv) - 
 - [strands-agents/tools](https://github.com/strands-agents/tools) - A set of tools that gives agents powerful capabilities.
@@ -309,6 +308,7 @@
 
 ## Shell 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [classifieddotdev/pg-drip](https://github.com/classifieddotdev/pg-drip) - Postgres Distributed Replica in Patroni (containerized)
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [speedshop/ids_must_be_indexed](https://github.com/speedshop/ids_must_be_indexed) - A GitHub Action to ensure all Rails application foreign key columns are indexed
