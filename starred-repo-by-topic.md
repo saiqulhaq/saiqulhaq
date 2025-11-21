@@ -680,6 +680,7 @@
 
 ## others 
 
+- [labiso-gmbh/reclaim-sdk](https://github.com/labiso-gmbh/reclaim-sdk) - Unofficial Reclaim.ai Python API
 - [classifieddotdev/pg-drip](https://github.com/classifieddotdev/pg-drip) - Postgres Distributed Replica in Patroni (containerized)
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
