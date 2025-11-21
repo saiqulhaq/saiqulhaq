@@ -192,6 +192,7 @@
 
 ## Python 
 
+- [labiso-gmbh/reclaim-sdk](https://github.com/labiso-gmbh/reclaim-sdk) - Unofficial Reclaim.ai Python API
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 - [mutiaraauliya/chatbotuniv](https://github.com/mutiaraauliya/chatbotuniv) - 
