@@ -59,6 +59,7 @@
 - [go](#go)
 - [golang](#golang)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
@@ -477,6 +478,10 @@
 
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp.
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
+
+## gui 
+
+- [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
 
 ## hacking 
 
