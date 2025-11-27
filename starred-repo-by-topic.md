@@ -8,6 +8,7 @@
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
+- [algorithms](#algorithms)
 - [analytics](#analytics)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
@@ -28,6 +29,7 @@
 - [cli](#cli)
 - [clojure](#clojure)
 - [coding](#coding)
+- [command-line](#command-line)
 - [computer-science](#computer-science)
 - [cpp](#cpp)
 - [css](#css)
@@ -174,6 +176,11 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [sagivo/algorithms](https://github.com/sagivo/algorithms) - algorithms playground for common questions
 
+## algorithms 
+
+- [liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview) - A middle-to-high level open source algorithm book designed with coding interview at heart!
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
 ## analytics 
 
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -300,6 +307,13 @@
 ## coding 
 
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
+
+## command-line 
+
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 
 ## computer-science 
 
