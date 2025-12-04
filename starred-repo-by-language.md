@@ -311,6 +311,7 @@
 
 ## Shell 
 
+- [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [classifieddotdev/pg-drip](https://github.com/classifieddotdev/pg-drip) - Postgres Distributed Replica in Patroni (containerized)
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [speedshop/ids_must_be_indexed](https://github.com/speedshop/ids_must_be_indexed) - A GitHub Action to ensure all Rails application foreign key columns are indexed
