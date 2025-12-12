@@ -22,6 +22,7 @@
 - [bash](#bash)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
@@ -144,6 +145,7 @@
 
 ## agent 
 
+- [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
 - [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build & auto-optimize LLM applications.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
@@ -270,6 +272,10 @@
 
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [hellostealth/stealth](https://github.com/hellostealth/stealth) - An open source Ruby framework for text and voice chatbots. 🤖
+
+## bugbounty 
+
+- [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
 
 ## c 
 
@@ -518,6 +524,7 @@
 
 ## hacking 
 
+- [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 
 ## hacking-tool 
@@ -596,6 +603,7 @@
 
 ## llm 
 
+- [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
 - [strands-agents/tools](https://github.com/strands-agents/tools) - A set of tools that gives agents powerful capabilities.
 - [taazkareem/clickup-mcp-server](https://github.com/taazkareem/clickup-mcp-server) - ClickUp MCP Server - Integrate ClickUp project management with AI through Model Context Protocol
@@ -720,10 +728,12 @@
 
 ## osint 
 
+- [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 
 ## others 
 
+- [bayuncao/hexstrike-ai-kit](https://github.com/bayuncao/hexstrike-ai-kit) - Continued expansion of the hexstrike-ai project 📦 Sincere thanks hexstrike-ai!
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [labiso-gmbh/reclaim-sdk](https://github.com/labiso-gmbh/reclaim-sdk) - Unofficial Reclaim.ai Python API
 - [classifieddotdev/pg-drip](https://github.com/classifieddotdev/pg-drip) - Postgres Distributed Replica in Patroni (containerized)
@@ -819,6 +829,7 @@
 
 ## pentesting 
 
+- [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
 - [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 
 ## postgresql 
