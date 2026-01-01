@@ -740,6 +740,7 @@
 
 ## others 
 
+- [giovapanasiti/active_storage_dashboard](https://github.com/giovapanasiti/active_storage_dashboard) - A mountable Rails engine that provides a dashboard to view Active Storage data
 - [bayuncao/hexstrike-ai-kit](https://github.com/bayuncao/hexstrike-ai-kit) - Continued expansion of the hexstrike-ai project 📦 Sincere thanks hexstrike-ai!
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [labiso-gmbh/reclaim-sdk](https://github.com/labiso-gmbh/reclaim-sdk) - Unofficial Reclaim.ai Python API
