@@ -106,6 +106,7 @@
 
 ## JavaScript 
 
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [nbgallery/nbgallery](https://github.com/nbgallery/nbgallery) - Enterprise Jupyter notebook sharing and collaboration app
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [blocknotes/administrate-materialize-theme](https://github.com/blocknotes/administrate-materialize-theme) - A Material Design theme for Administrate based on Materialize framework
