@@ -20,7 +20,7 @@ gem 'jekyll'
 group :jekyll_plugins do
   gem 'jekyll-archives'
   gem 'jekyll-asciinema'
-  # gem 'jekyll_bitly_next'
+  gem 'jekyll_bitly_next'
   gem 'jekyll-compose'
   gem 'jekyll-data'
   gem 'jekyll-dotenv'
