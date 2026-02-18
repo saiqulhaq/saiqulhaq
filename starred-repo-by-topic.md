@@ -764,7 +764,7 @@
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [mutiaraauliya/chatbotuniv](https://github.com/mutiaraauliya/chatbotuniv) - 
 - [Strech/sidekiq-prometheus-exporter](https://github.com/Strech/sidekiq-prometheus-exporter) - All the basic metrics of Sidekiq with pluggable contribs prepared for Prometheus
-- [modelcontextprotocol/ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.
+- [modelcontextprotocol/ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for the Model Context Protocol.
 - [speedshop/ids_must_be_indexed](https://github.com/speedshop/ids_must_be_indexed) - A GitHub Action to ensure all Rails application foreign key columns are indexed
 - [obie/claude-on-rails](https://github.com/obie/claude-on-rails) - A development framework for Ruby on Rails developers using Claude Code, inspired by SuperClaude
 - [parruda/swarm](https://github.com/parruda/swarm) - Ruby gems for general-purpose AI agent systems: automation, research, data processing, customer support, content creation. SwarmSDK provides single-process orchestration, persistent memory with semant
