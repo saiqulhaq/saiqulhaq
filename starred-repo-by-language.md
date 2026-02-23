@@ -316,6 +316,7 @@
 
 ## Shell 
 
+- [soderlind/ralph](https://github.com/soderlind/ralph) - Ralph is a small runner around GitHub Copilot CLI (standalone) inspired by the“Ralph Wiggum” technique: run a coding agent from a clean slate, over and over, until a stop condition is met
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [classifieddotdev/pg-drip](https://github.com/classifieddotdev/pg-drip) - Postgres Distributed Replica in Patroni (containerized)
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
