@@ -850,11 +850,11 @@
 
 ## penetration-testing 
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 
 ## pentesting 
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
 - [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite.
 
@@ -1064,7 +1064,7 @@
 
 ## security-tools 
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 
 ## self-hosted 
 
