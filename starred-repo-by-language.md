@@ -37,7 +37,6 @@
 
 ## C 
 
-- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
 
@@ -45,6 +44,7 @@
 
 - [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 
 ## CSS 
@@ -110,6 +110,7 @@
 
 ## JavaScript 
 
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - NVIDIA plugin for secure installation of OpenClaw
 - [nbgallery/nbgallery](https://github.com/nbgallery/nbgallery) - Enterprise Jupyter notebook sharing and collaboration app
 - [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [blocknotes/administrate-materialize-theme](https://github.com/blocknotes/administrate-materialize-theme) - A Material Design theme for Administrate based on Materialize framework
@@ -194,6 +195,7 @@
 
 ## Python 
 
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native
 - [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
 - [bayuncao/hexstrike-ai-kit](https://github.com/bayuncao/hexstrike-ai-kit) - Continued expansion of the hexstrike-ai project 📦 Sincere thanks hexstrike-ai!
 - [thinmanj/logseq-python-library](https://github.com/thinmanj/logseq-python-library) - 🐍 Comprehensive Python library for Logseq knowledge graph interaction. Read, query, and modify Logseq data programmatically with advanced search capabilities.
@@ -346,6 +348,7 @@
 
 ## TypeScript 
 
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
