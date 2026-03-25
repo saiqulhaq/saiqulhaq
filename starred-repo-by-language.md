@@ -119,7 +119,6 @@
 - [mechio/takana](https://github.com/mechio/takana) - Takana lets you see your SCSS and CSS style changes live, in the browser, as you type them
 - [curran/screencasts](https://github.com/curran/screencasts) - Code that goes along with my screencasts.
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
-- [circlecell/jsonlintpro](https://github.com/circlecell/jsonlintpro) - 
 - [jsbin/jsbin](https://github.com/jsbin/jsbin) - Collaborative JavaScript Debugging App
 
 ## Jupyter Notebook 
