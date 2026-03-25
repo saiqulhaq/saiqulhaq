@@ -845,7 +845,6 @@
 - [dideler/bootstrapping](https://github.com/dideler/bootstrapping) - :boot: a list of useful resources to get up and running quickly
 - [timoxley/best-practices](https://github.com/timoxley/best-practices) - Tidbits of developer best practices from around the web
 - [piscolomo/ruby-patterns](https://github.com/piscolomo/ruby-patterns) - Examples of Patterns in Ruby
-- [circlecell/jsonlintpro](https://github.com/circlecell/jsonlintpro) - 
 - [jsbin/jsbin](https://github.com/jsbin/jsbin) - Collaborative JavaScript Debugging App
 - [Lokaltog/vim-powerline](https://github.com/Lokaltog/vim-powerline) - Moved to powerline/powerline.
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
