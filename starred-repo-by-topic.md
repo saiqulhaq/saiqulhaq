@@ -737,7 +737,7 @@
 ## open-source 
 
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-- [spree/spree](https://github.com/spree/spree) - Spree is an API-first, open-source eCommerce platform for fast growing businesses and enterprises. Spree supports complex commerce scenarios natively — from B2B wholesale to multi-vendor marketplace t
+- [spree/spree](https://github.com/spree/spree) - Open-source commerce platform for fast growing businesses and enterprises. Supports complex commerce scenarios natively - from B2B wholesale to multi-vendor marketplace to global multi-region or multi
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 
