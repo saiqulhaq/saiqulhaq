@@ -62,6 +62,7 @@
 
 ## Go 
 
+- [docker/docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -155,6 +156,8 @@
 
 ## Others 
 
+- [theaiautomators/claude-code-agentic-rag-series](https://github.com/theaiautomators/claude-code-agentic-rag-series) - Planning docs and PRDs for the Claude Code Agentic RAG Masterclass video series. Build a full-stack AI app with Python, React, and Supabase.
+- [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) - 🛠️ Awesome tools & guides for harness engineering.
 - [seuros/matryoshka](https://github.com/seuros/matryoshka) - Ruby ↔ Rust Design Patterns: FFI Hybrid and Mirror API patterns for building polyglot gems
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular software
 - [SylphAI-Inc/LLM-engineer-handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook) - A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications.
@@ -192,6 +195,9 @@
 
 ## Python 
 
+- [Picrew/awesome-agent-harness](https://github.com/Picrew/awesome-agent-harness) - An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides.
+- [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - 
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
 - [bayuncao/hexstrike-ai-kit](https://github.com/bayuncao/hexstrike-ai-kit) - Continued expansion of the hexstrike-ai project 📦 Sincere thanks hexstrike-ai!
@@ -346,7 +352,8 @@
 
 ## TypeScript 
 
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Turn any codebase, knowledge base (Karpathy LLM wiki), or docs into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gem
+- [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Graphs that teach &gt; graphs that impress. Works with Claud
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp.
