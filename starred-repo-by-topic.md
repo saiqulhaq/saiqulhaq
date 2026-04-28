@@ -728,7 +728,6 @@
 
 ## nextjs 
 
-- [spree/spree](https://github.com/spree/spree) - Open-source headless eCommerce platform with REST API, TypeScript SDK, and Next.js storefront for cross-border, B2B or marketplace eCommerce.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 
 ## nlp 
@@ -1023,7 +1022,6 @@
 
 ## rest-api 
 
-- [spree/spree](https://github.com/spree/spree) - Open-source headless eCommerce platform with REST API, TypeScript SDK, and Next.js storefront for cross-border, B2B or marketplace eCommerce.
 - [sergeyleschev/sergeyleschev](https://github.com/sergeyleschev/sergeyleschev) - Sergey Leschev / Team Lead / CTO. Certificates. Developer Roadmap. 🏆 LeetCode Ranking #Dev: Global TOP 200 🏆 Golden Award Muad'Dib's Challenge 🏆 Golden Award for the Year of the Tiger Challenge.
 
 ## ruby 
@@ -1173,7 +1171,6 @@
 
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
-- [spree/spree](https://github.com/spree/spree) - Open-source headless eCommerce platform with REST API, TypeScript SDK, and Next.js storefront for cross-border, B2B or marketplace eCommerce.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
