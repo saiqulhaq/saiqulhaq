@@ -431,7 +431,7 @@
 
 ## deployment 
 
-- [cuber-cloud/cuber-gem](https://github.com/cuber-cloud/cuber-gem) - An automation tool that simplify the deployment of your apps on Kubernetes.
+- [cuber-cloud/cuber-gem](https://github.com/cuber-cloud/cuber-gem) - An open-source automation tool that simplifies the deployment of your apps on Kubernetes.
 
 ## design 
 
@@ -458,7 +458,7 @@
 
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
-- [cuber-cloud/cuber-gem](https://github.com/cuber-cloud/cuber-gem) - An automation tool that simplify the deployment of your apps on Kubernetes.
+- [cuber-cloud/cuber-gem](https://github.com/cuber-cloud/cuber-gem) - An open-source automation tool that simplifies the deployment of your apps on Kubernetes.
 - [sergeyleschev/sergeyleschev](https://github.com/sergeyleschev/sergeyleschev) - Sergey Leschev / Team Lead / CTO. Certificates. Developer Roadmap. 🏆 LeetCode Ranking #Dev: Global TOP 200 🏆 Golden Award Muad'Dib's Challenge 🏆 Golden Award for the Year of the Tiger Challenge.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -478,7 +478,7 @@
 - [matifali/dockerdl](https://github.com/matifali/dockerdl) - Deep Learning Docker Image
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
 - [nickjj/docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose.
-- [cuber-cloud/cuber-gem](https://github.com/cuber-cloud/cuber-gem) - An automation tool that simplify the deployment of your apps on Kubernetes.
+- [cuber-cloud/cuber-gem](https://github.com/cuber-cloud/cuber-gem) - An open-source automation tool that simplifies the deployment of your apps on Kubernetes.
 
 ## documentation 
 
@@ -641,7 +641,7 @@
 - [little-angry-clouds/kubernetes-binaries-managers](https://github.com/little-angry-clouds/kubernetes-binaries-managers) - Kubernetes related binaries manager.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
-- [cuber-cloud/cuber-gem](https://github.com/cuber-cloud/cuber-gem) - An automation tool that simplify the deployment of your apps on Kubernetes.
+- [cuber-cloud/cuber-gem](https://github.com/cuber-cloud/cuber-gem) - An open-source automation tool that simplifies the deployment of your apps on Kubernetes.
 
 ## learning 
 
