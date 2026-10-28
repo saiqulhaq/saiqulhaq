@@ -134,6 +134,7 @@
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [shell](#shell)
+- [skills](#skills)
 - [software](#software)
 - [sql](#sql)
 - [stable-diffusion](#stable-diffusion)
@@ -1159,6 +1160,10 @@
 
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+
+## skills 
+
+- [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support
 
 ## software 
 
