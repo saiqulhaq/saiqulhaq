@@ -895,7 +895,7 @@
 - [actions/setup-java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java
 - [customink/activerecord-collection_cache_key](https://github.com/customink/activerecord-collection_cache_key) - A Backport of Rails 5's collection cache keys to AR 3 and 4
 - [Shopify/identity_cache](https://github.com/Shopify/identity_cache) - IdentityCache is a blob level caching solution to plug into Active Record. Don't #find, #fetch!
-- [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
+- [meta/hermes](https://github.com/meta/hermes) - A JavaScript engine optimized for running React Native.
 - [fxn/zeitwerk](https://github.com/fxn/zeitwerk) - Efficient and thread-safe code loader for Ruby
 - [rails-api/case_transform](https://github.com/rails-api/case_transform) - Extraction of the key_transform abilities of ActiveModelSerializers
 - [fontello/fontello](https://github.com/fontello/fontello) - Iconic fonts scissors
