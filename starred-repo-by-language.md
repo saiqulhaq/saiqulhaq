@@ -103,7 +103,7 @@
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
 - [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [blocknotes/administrate-materialize-theme](https://github.com/blocknotes/administrate-materialize-theme) - A Material Design theme for Administrate based on Materialize framework
-- [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
+- [meta/hermes](https://github.com/meta/hermes) - A JavaScript engine optimized for running React Native.
 - [fontello/fontello](https://github.com/fontello/fontello) - Iconic fonts scissors
 - [mechio/takana](https://github.com/mechio/takana) - Takana lets you see your SCSS and CSS style changes live, in the browser, as you type them
 - [curran/screencasts](https://github.com/curran/screencasts) - Code that goes along with my screencasts.
