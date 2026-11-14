@@ -912,7 +912,6 @@
 - [gohkhoonhiang/sidekiq_adhoc_job](https://github.com/gohkhoonhiang/sidekiq_adhoc_job) - Sidekiq Web UI extension for triggering job on ad-hoc basis
 - [ankane/the-ultimate-guide-to-ruby-timeouts](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts) - Timeouts for popular Ruby gems
 - [actions/setup-java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java
-- [customink/activerecord-collection_cache_key](https://github.com/customink/activerecord-collection_cache_key) - A Backport of Rails 5's collection cache keys to AR 3 and 4
 - [Shopify/identity_cache](https://github.com/Shopify/identity_cache) - IdentityCache is a blob level caching solution to plug into Active Record. Don't #find, #fetch!
 - [meta/hermes](https://github.com/meta/hermes) - A JavaScript engine optimized for running React Native.
 - [fxn/zeitwerk](https://github.com/fxn/zeitwerk) - Efficient and thread-safe code loader for Ruby
