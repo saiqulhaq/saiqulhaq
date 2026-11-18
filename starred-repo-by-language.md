@@ -14,6 +14,7 @@
 - [Go Template](#go-template)
 - [HTML](#html)
 - [Handlebars](#handlebars)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
@@ -96,6 +97,10 @@
 ## Handlebars 
 
 - [Kamona-WD/starter-dashboard-layout](https://github.com/Kamona-WD/starter-dashboard-layout) - Responsive dashboard layout
+
+## Java 
+
+- [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 
 ## JavaScript 
 
@@ -198,7 +203,6 @@
 - [strands-agents/tools](https://github.com/strands-agents/tools) - A set of tools that gives agents powerful capabilities.
 - [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
-- [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build & auto-optimize LLM applications.
 - [WeiFoo/NoML](https://github.com/WeiFoo/NoML) - A notebook  for machine learning interview
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
