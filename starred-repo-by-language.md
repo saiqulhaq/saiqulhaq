@@ -194,7 +194,6 @@
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
-- [bayuncao/hexstrike-ai-kit](https://github.com/bayuncao/hexstrike-ai-kit) - Continued expansion of the hexstrike-ai project 📦 Sincere thanks hexstrike-ai!
 - [thinmanj/logseq-python-library](https://github.com/thinmanj/logseq-python-library) - 🐍 Comprehensive Python library for Logseq knowledge graph interaction. Read, query, and modify Logseq data programmatically with advanced search capabilities.
 - [labiso-gmbh/reclaim-sdk](https://github.com/labiso-gmbh/reclaim-sdk) - Unofficial Reclaim.ai Python API
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
@@ -223,7 +222,7 @@
 - [PrithivirajDamodaran/Route0x](https://github.com/PrithivirajDamodaran/Route0x) - Low latency, High Accuracy, Custom Query routers for Humans and Agents. Built by Prithivi Da
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
-- [aws/aws-graviton-getting-started](https://github.com/aws/aws-graviton-getting-started) - Helping developers to use AWS Graviton2, Graviton3, and Graviton4 processors which power the 6th, 7th, and 8th generation of Amazon EC2 instances (C6g[d], M6g[d], R6g[d], T4g, X2gd, C6gn, I4g, Im4gn, 
+- [aws/aws-graviton-getting-started](https://github.com/aws/aws-graviton-getting-started) - Technical guidance and best practices for optimizing software on modern CPUs, primarily focused on AWS Graviton Arm64 processors (Amazon EC2 instances from T4g and C6g to the latest C9g, M9g, and R9g)
 - [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
@@ -310,7 +309,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
 
 ## Shell 
